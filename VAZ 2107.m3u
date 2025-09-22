@@ -13,8 +13,8 @@ https://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az",Ictimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-id="",Ictimai TV
-https://node19.connect.az:9081/tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AzTV.az",Az TV (1080p)
+https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN",Baku TV (720p)
@@ -623,3 +623,4 @@ https://embedlp.becdn.net/womantv.m3u8
 https://cdn-yildiz.yayin.com.tr/yildiz/yildiz/playlist.m3u8
 #EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="General",Yol TV (720p)
 https://stream.yol.tv:9443/medialive/yol.m3u8
+
