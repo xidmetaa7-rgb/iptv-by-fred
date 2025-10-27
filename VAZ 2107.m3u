@@ -1996,6 +1996,9 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
 #EXTINF:0,TR: HALK TV
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
+#EXTINF:-1,AR: BEIN SPORT 1
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
 
 
 
