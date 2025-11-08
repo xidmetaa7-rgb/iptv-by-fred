@@ -7,8 +7,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",Idman Azerbaycan
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/idman-tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",Real TV
+http://149.255.152.218/channels.aspx?channel=real.m3u8
 #EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZERBAYCAN",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN",Az TV (1080p)
@@ -7085,6 +7085,7 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/detskiymir/chunks.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/gulli/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Jimjam
 https://blueberry.uvs.onlinetv.link/cdn_origin2/jimjam/chunks.m3u8
+
 
 
 
