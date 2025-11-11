@@ -3,7 +3,7 @@
 http://rtmp.apa.tv/@pagroup!23.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",ICT TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai  TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
@@ -13,12 +13,12 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png",Idman tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Idman tv
 https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="AZERBAYCAN",CBC Sport [Geo-blocked]
-https://cdn504.freebroadcast.vip/cbcsport.m3u8
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png" group-title="AZERBAYCAN",Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.pl" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="AZERBAYCAN",FIFA+ (720p)
@@ -7087,6 +7087,7 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/detskiymir/chunks.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/gulli/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Jimjam
 https://blueberry.uvs.onlinetv.link/cdn_origin2/jimjam/chunks.m3u8
+
 
 
 
