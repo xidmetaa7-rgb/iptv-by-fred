@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN",APA Tv
 http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-id="Real TV" ,Real tv
+https://mydo.canlitvplayer.com/real.m3u8
 #EXTINF:-1 tvg-id="Kanal S" ,Kanal S
 https://yayin2.canlitv.fun/live/kanals.stream/chunklist_w764766908.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
@@ -7097,6 +7099,7 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/detskiymir/chunks.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/gulli/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Jimjam
 https://blueberry.uvs.onlinetv.link/cdn_origin2/jimjam/chunks.m3u8
+
 
 
 
