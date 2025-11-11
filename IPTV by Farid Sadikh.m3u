@@ -9,6 +9,8 @@ https://gunazsrs.2meet.az/live/livestream.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="Alvin TV" ,Alvin TV
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w91852283.m3u8
+#EXTINF:-1 tvg-id="Az star TV" ,Az star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/chunklist_w1091051967_b2096000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai  TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
@@ -7093,6 +7095,7 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/detskiymir/chunks.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/gulli/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Jimjam
 https://blueberry.uvs.onlinetv.link/cdn_origin2/jimjam/chunks.m3u8
+
 
 
 
