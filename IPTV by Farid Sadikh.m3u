@@ -7091,7 +7091,6 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/detskiymir/chunks.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/gulli/chunks.m3u8
 #EXTINF:-1 group-title="Uvensys GmbH", Jimjam
 https://blueberry.uvs.onlinetv.link/cdn_origin2/jimjam/chunks.m3u8
-#EXTM3U
 #EXTINF:-1 logo="https://www.marketingdirecto.com/wp-content/uploads/2022/04/movistar-plus-sioux-cyranos.jpg" tvg-id="1adbde0f9244b2da02045c646befbf81" tvg-chno="1",M+
 http://89.29.219.116:9981/stream/channelid/266263322?profile=pass
 #EXTINF:-1 logo="https://elterrat.com/wp-content/uploads/2023/06/la-resistencia-logo.jpg" tvg-id="883dbd0c319aea52d97ce835aaf40912" tvg-chno="2",M+ La Resistencia
@@ -7168,6 +7167,7 @@ http://89.29.219.116:9981/stream/channelid/1247216675?profile=pass
 http://89.29.219.116:9981/stream/channelid/373588662?profile=pass
 #EXTINF:-1 logo="https://sincroguia-tv.expansion.com/uploads/images/1/k/u/dazn.jpg" tvg-id="21c0286fed1793684d042fb543945496" tvg-chno="41",DAZN 1 HD
 http://89.29.219.116:9981/stream/channelid/1864941601?profile=pass
+
 
 
 
