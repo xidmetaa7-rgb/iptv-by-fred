@@ -665,4 +665,25 @@ http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-name="Clarity4K Единоборства" group-title="TEST-SPORT 🏆",Clarity4K Единоборства
 http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
 
+#EXTINF:-1 group-title="Turk",Kanal d
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 group-title="turk",Star tv
+https://dogus.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 group-title="turk",Show Turk
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8
+#EXTINF:-1 group-title="turk",Fox TV
+https://cdn506.canlitv.vin/foxtv.m3u8
+#EXTINF:-1 group-title="turk",TV 8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
+#EXTINF:-1 group-title="turk",TLC
+https://cdn505.canlitv.vin/tlctv.m3u8
+#EXTINF:-1 group-title="turk",Tv 8.5
+https://cdn900.canlitv.vin/tv85.m3u8
+#EXTINF:-1 group-title="turk",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 group-title="turk",Tv 8 International
+https://cdn504.canlitv.vin/tv8int.m3u8
+#EXTINF:-1 group-title="turk",DMAX
+https://cdn503.canlitv.vin/dmax.m3u8
+
 
