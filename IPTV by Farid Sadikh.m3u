@@ -61,6 +61,8 @@ https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://edge01d.mediavitrina.ru/dashp-livef7/ren_4_sd/index.mpd?token=v2.tRAv8tNq3j0DzlinUZLXcJEU8rtBpgOA3oditzWP1HE.HjfH8v6uBl9L8e-qZyNf16LVqnTd5TLCKqFSHFYLb5M.1771844748.2eba89dd8010c8e9978f93ebd000da65
+https://cdn.ntv.ru/ntv0_foreign/tracks-v2a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="KINO+📺",Ю TB
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1251,6 +1253,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
