@@ -40,7 +40,7 @@ http://185.46.16.239:8000/STS
 #EXTINF:-1 group-title="Инет",СТС HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
-https://edge02d.mediavitrina.ru/dashp-livef6/ctc4/index.mpd
+https://edge02d.mediavitrina.ru/dashp-livef6/ctc4/index.mpd?token=v2.ayfiZEHll8sPErIim506OuP2rE2s-NOpXR3OZch6Fbg.rilCO3Q35kOBlHWuHNq9ALtKRBCsYZ3PzrRXgyrD4JE.1771848379.f9268e2a249f685d459a29988b0da973
 
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС Int.
 http://158.101.222.193:88/georgia_play.php?id=ctctv
@@ -84,10 +84,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
-#EXTINF:-1 group-title="KINO+📺",РОССИЯ PTP
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_5.m3u8
+
 #EXTINF:-1 group-title="KINO+📺",Че!
 http://5.188.221.43:8080/play/che
 #EXTINF:-1 group-title="KINO+📺",ТV 3
@@ -1270,6 +1267,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
