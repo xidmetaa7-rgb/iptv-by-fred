@@ -58,7 +58,8 @@ https://cdn.ntv.ru/ntv0_foreign/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+📺",PEH TB
-https://mhd116.iptv2022.com/x/FVb2BEim-gIb0IfMD4fW_Q,1768334109/streaming/rentvott/324/5/tracks-v5a1/mono.m3u8
+https://cdn.ntv.ru/ntv0_foreign/tracks-v2a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="KINO+📺",Ю TB
 http://91.247.68.229:8000/play/eee/index.m3u8
@@ -1247,6 +1248,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
