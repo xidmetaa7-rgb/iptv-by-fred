@@ -44,7 +44,7 @@ https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.
 #EXTINF:-1 group-title="KINO+📺",TNT4 International+4
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 group-title="KINO+📺",TNT International
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+https://salam-nsk-mfon-d137.rtbcdn.ru/dive/river-3-329.rtbcdn.ru/4vgN6qYlCiUCg6p93TITZA/stream/genetta-326.m9.rutube.ru/6Ng8ZSN8tmeJMCXugWW0Vw/1771837569/f02b63bc8f0ed4dba04bbfce4a1119c5/1080p_stream.m3u8
 #EXTINF:-1 group-title="KINO+📺",Че!
 http://5.188.221.43:8080/play/che
 #EXTINF:-1 group-title="KINO+📺",ТV 3
@@ -1227,4 +1227,5 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
