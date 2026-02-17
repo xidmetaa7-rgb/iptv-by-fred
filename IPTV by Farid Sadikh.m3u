@@ -57,6 +57,14 @@ https://salam-nsk-mfon-d137.rtbcdn.ru/dive/river-3-329.rtbcdn.ru/4vgN6qYlCiUCg6p
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
+#EXTINF:-1 group-title="KINO+📺",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s.ontivi.net/564/index.m3u8
+
+#EXTINF:-1 group-title="KINO+📺",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s.ontivi.net/600/index.m3u8
+
 #EXTINF:-1 group-title="KINO+📺",HTB
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0_foreign/index.m3u8
@@ -1267,6 +1275,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
