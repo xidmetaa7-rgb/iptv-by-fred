@@ -63,8 +63,7 @@ https://s.ontivi.net/564/index.m3u8
 
 #EXTINF:-1 group-title="KINO+📺",Animal Planet HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://s.ontivi.net/600/index.m3u8
-
+https://edge07-alm.beetv.kz/bpk-token/3an@4sy44w1ac1114myruoaf2r33nxxewxx34stofvca/bpk-tv/000000216/tve/000000216-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 group-title="KINO+📺",HTB
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn.ntv.ru/ntv0_foreign/index.m3u8
@@ -1275,6 +1274,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
