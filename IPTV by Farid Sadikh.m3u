@@ -109,12 +109,6 @@ https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge07-alm.beetv.kz/bpk-token/3an@4sy44w1ac1114myruoaf2r33nxxewxx34stofvca/bpk-tv/000000216/tve/000000216-audio_82882_rus=82400-video=5287600.m3u8
 
-#EXTINF:-1 group-title="KINO+📺",Discovery HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://edge02-alm.beetv.kz/bpk-token/3an@cxtpng0wo4vzyzwutey3xh50m2y32ltrcj3kn1aa/bpk-tv/000001496/tve/000001496-audio_82882_rus=82400-video=5287600.m3u8
-#EXTINF:-1 group-title="KINO+📺",Galaxy Tv
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://edge06-alm.beetv.kz/bpk-token/3an@5rlcsqlzojic4dxfhldh0xeebxp2sqe25h3j0qda/bpk-tv/000000332/tve/000000332-audio_82882_rus=82400-video=5287600.m3u8
 
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
 http://188.237.47.212:6005
@@ -1284,6 +1278,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
