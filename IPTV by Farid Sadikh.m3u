@@ -68,6 +68,11 @@ https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
 
+#EXTINF:-1 group-title="KINO+📺",PEH TB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
+https://edge02d.mediavitrina.ru/dashp-livef8/ren_4_sd/index.mpd
+
 #EXTINF:-1 group-title="KINO+📺",Ю TB
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
@@ -1282,6 +1287,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
