@@ -73,10 +73,17 @@ http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXTINF:-1 group-title="KINO+📺",TNT
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="KINO+📺",TNT4 International+4
-https://salam-nsk-rtk-d136.rtbcdn.ru/dive/river-5-549.rtbcdn.ru/UK-H9ifPHVnQaKEi-Ew9XQ/stream/genetta-318.m9.rutube.ru/asRwOTHz7VJTjqtOSzQjfA/1771837742/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
-#EXTINF:-1 group-title="KINO+📺",TNT International
-https://salam-nsk-mfon-d137.rtbcdn.ru/dive/river-3-329.rtbcdn.ru/4vgN6qYlCiUCg6p93TITZA/stream/genetta-326.m9.rutube.ru/6Ng8ZSN8tmeJMCXugWW0Vw/1771837569/f02b63bc8f0ed4dba04bbfce4a1119c5/1080p_stream.m3u8
+https://salam-nsk-rtk-d136.rtbcdn.ru/dive/river-5-549.rtbcdn.ru/zxrpnZ4VVd2w1gAnr20Kcg/stream/genetta-318.m9.rutube.ru/pXdxaF5eXCyYzCPqpSGqEA/1772559828/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+#EXTINF:-1 group-title="KINO+📺",TNT4 International 
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tqp1eTtPVL7TXEdZ2UwuPQ&e=2071955027&scheme=https
 
+
+
+#EXTINF:-1 group-title="KINO+📺",TNT International
+https://salam-nsk-mfon-d137.rtbcdn.ru/dive/river-3-329.rtbcdn.ru/CIGdc-W03YmKsovnHNAY_A/stream/genetta-326.m9.rutube.ru/sqMQi7L6qo35_--_EFIt1g/1772559532/f02b63bc8f0ed4dba04bbfce4a1119c5/1080p_stream.m3u8
+https://river-1.rutube.ru/stream/genetta-326.m9.rutube.ru/CIGdc-W03YmKsovnHNAY_A/1772559532/f02b63bc8f0ed4dba04bbfce4a1119c5/1080p_stream.m3u8
+#EXTINF:-1 group-title="KINO+📺",THT TECT
+https://rutube.ru/live/video/546602986e6a424d74d594876ddb3f04/?r=wd
 #EXTINF:-1 group-title="KINO+📺",Perviy
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
@@ -1311,6 +1318,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
