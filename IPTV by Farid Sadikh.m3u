@@ -278,8 +278,11 @@ https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",d
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНОШКИ ",Полночь на злаковом поле 
+http://149.255.152.218/files/cinema_video/LV153L1X0QIUHW06ICN0AR1PK5D5ZZ7E.mp4
+
 
 #EXTINF:-1 group-title="KINO+📺",Peretz International
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
@@ -1308,6 +1311,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
