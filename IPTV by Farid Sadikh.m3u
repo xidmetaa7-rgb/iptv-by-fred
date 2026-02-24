@@ -15,8 +15,19 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN",Az TV (1080p)
 https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad TV
+#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad Azerbaycan TV
 https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="AZERBAYCAN",Azad Azerbaycan HD
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+
+#EXTINF:-1 group-title="AZERBAYCAN",Real Tv HD
+http://149.255.152.199/real.m3u8
+#EXTINF:-1  group-title="AZERBAYCAN",Kanal S
+http://149.255.152.199/kanals.m3u8
+#EXTINF:-1  group-title="AZERBAYCAN",TMB AZ
+http://149.255.152.199/tmbaz.m3u8?
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Idman tv
 https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN",Baku TV (720p)
@@ -1282,6 +1293,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
