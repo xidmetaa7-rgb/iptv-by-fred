@@ -47,13 +47,17 @@ https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",BIZNES TV 
 https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",EL TV
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8?token
 #EXTINF:-1  group-title="AZERBAYCAN",Naxcivan TV
 https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",Vostok TV
 https://str.yodacdn.net/tmb/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",CBC Azerbaycan TV
 https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="AZERBAYCAN",Kepez TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
+http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
@@ -1304,6 +1308,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
