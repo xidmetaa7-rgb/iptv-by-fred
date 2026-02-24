@@ -207,7 +207,7 @@ http://176.118.197.125/viju-History/index.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Viasat Nature
 http://176.118.197.125/viju-Nature/index.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Cartoon Network
-https://vsd252.okcdn.ru/hls/11277199346182.m3u8/sig/sVHbAtvK8DA/expires/1771521503070/srcIp/94.20.66.97/urls/45.136.21.44/clientType/0/srcAg/CHROME/mid/12141756816902/11277199346182_high/index.m3u8
+https://s7.merlive.am/CartoonNetwork/tracks-a1/mono.m3u8
 
 
 
@@ -1311,6 +1311,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
