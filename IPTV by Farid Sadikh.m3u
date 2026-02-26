@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN",APA Tv
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+https://cdn900.canlitv.vin/arbtv.m3u8
+
 #EXTINF:-1 tvg-id="Kanal 12" ,Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="Alvin TV" ,Alvin TV
@@ -38,8 +39,7 @@ https://str2.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="AZERBAYCAN",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-
+https://cdn501.canlitv.vin/xezertv.m3u8
 #EXTINF:-1 group-title="AZERBAYCAN",Real Tv HD
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",Qafqaz TV
@@ -1318,6 +1318,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
