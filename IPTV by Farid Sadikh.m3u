@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN",APA Tv
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
-https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/arb/index.m3u8
 #EXTINF:-1 tvg-id="Kanal 12" ,Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="Alvin TV" ,Alvin TV
@@ -1317,6 +1317,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
