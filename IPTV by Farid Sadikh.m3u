@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="APATv.az@SD" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN",APA Tv
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
-https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1433959283.m3u8
+https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1878753006.m3u8?hash=24be2af17d2f33a07f53983edaad1519
 #EXTINF:-1 tvg-id="Kanal 12" ,Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="Alvin TV" ,Alvin TV
@@ -10,9 +10,11 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai  TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
-https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w1786805807.m3u8
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjY2LjIyOCIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzcyMTE5MjMyLCJqdGkiOiI5Y2Q0NTQyYjRmZWZjMmE1In0%3D.bMjORJgJsF7jCb%2Fd7RgChdxZSUFtCCxRU3GWymcwdEA%3D
+
+
 #EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZERBAYCAN",ARB Gunes
-https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w256166966.m3u8
+https://str.yodacdn.net/arbgunesh/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjY2LjIyOCIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzcyMTE5MjMyLCJqdGkiOiI5Y2Q0NTQyYjRmZWZjMmE1In0%3D.bMjORJgJsF7jCb%2Fd7RgChdxZSUFtCCxRU3GWymcwdEA%3D
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN",Az TV (1080p)
 https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
@@ -38,7 +40,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://str2.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w1928001190.m3u8
-#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV TEST
+#EXTINF:-1 tvg-id="SpaceTV.az"  group-title="AZERBAYCAN",Xezer TV
 https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjY2LjIyOCIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzcyMTE5MDUyLCJqdGkiOiJkMWM3M2Q3OGM0MzcyYzE1In0%3D.C+WE2MvW9j+lrkXhstinlb8rR5n2Io99fXQWlseAEhE%3D
 
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="AZERBAYCAN",Xezer TV
@@ -1321,6 +1323,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
