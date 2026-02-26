@@ -10,9 +10,12 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai  TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+
+https://str.yodacdn.net/arb24/index.m3u8
 #EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZERBAYCAN",ARB Gunes
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+https://str.yodacdn.net/arbgunesh/index.m3u8
+
+
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN",Az TV (1080p)
 https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad Azerbaycan TV
@@ -38,7 +41,8 @@ https://str2.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/X%C9%99z%C9%99r_TV_Logo.png" group-title="AZERBAYCAN",Xezer TV
-https://cdn501.canlitv.vin/xezertv.m3u8
+
+https://str.yodacdn.net/xazartv/index.m3u8
 #EXTINF:-1 group-title="AZERBAYCAN",Real Tv HD
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",Qafqaz TV
@@ -1317,6 +1321,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
