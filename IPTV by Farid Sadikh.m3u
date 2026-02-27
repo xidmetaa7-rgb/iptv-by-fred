@@ -69,7 +69,7 @@ http://185.46.16.239:8000/STS
 #EXTINF:-1 group-title="Инет",СТС HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
-https://ds.serving-sys.ru/resources//prod/national/NP_Longevity-Activity_Dispanserizaciya_JanFeb26/Everest_Olv_20-desktop_RodinkiAleny.mp4
+https://edge02r.mediavitrina.ru/dashp-livef6/ctc/index.mpd
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС Int.
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
@@ -1331,6 +1331,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
