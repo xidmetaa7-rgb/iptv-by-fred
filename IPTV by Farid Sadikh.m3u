@@ -69,7 +69,7 @@ http://185.46.16.239:8000/STS
 #EXTINF:-1 group-title="Инет",СТС HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
-https://edge02r.mediavitrina.ru/dashp-livef5/ctc/index.mpd?token=v2.KkwRY1S2QBEyABhCeADh1UDNQogg9KHZthfWzh0Dtp4.XCHivfeM3xtzxMyLau-0Vgpkk7hB4jSg2v2SRffAtkM.1772804336.97fce77f1892721453c5145193ec493e
+https://edge02r.mediavitrina.ru/dashp-livef5/ctc/index.mpd
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС Int.
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
@@ -1321,6 +1321,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
