@@ -59,6 +59,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 
 #EXTINF:-1 tvg-id="SpaceTV.az"  group-title="AZERBAYCAN",Xezer TV
 https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjY2LjIyOCIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0NS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzcyMTE5MDUyLCJqdGkiOiJkMWM3M2Q3OGM0MzcyYzE1In0%3D.C+WE2MvW9j+lrkXhstinlb8rR5n2Io99fXQWlseAEhE%3D
+#EXTINF:-1 tvg-id="SpaceTV.az"  group-title="AZERBAYCAN",MCJ TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
 
 #EXTINF:-1 group-title="AZERBAYCAN",Real Tv HD
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
@@ -1362,6 +1364,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
