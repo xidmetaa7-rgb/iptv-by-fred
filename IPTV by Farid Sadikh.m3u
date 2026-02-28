@@ -253,8 +253,9 @@ http://176.118.197.125/viju-History/index.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Viasat Nature
 http://176.118.197.125/viju-Nature/index.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Cartoon Network
-https://s7.merlive.am/CartoonNetwork/tracks-a1/mono.m3u8
 
+https://edge06-alm.beetv.kz/bpk-token/3an@1ojyiuvoebdrgx2gu5spesqritwlcgcn1y5tauba/bpk-tv/000000015/tve/000000015-video=2137600.m3u8
+https://edge06-alm.beetv.kz/bpk-token/3an@1ojyiuvoebdrgx2gu5spesqritwlcgcn1y5tauba/bpk-tv/000000015/tve/000000015-audio_82882_rus=82400.m3u8
 
 
 
@@ -1357,6 +1358,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
