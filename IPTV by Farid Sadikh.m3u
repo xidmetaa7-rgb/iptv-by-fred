@@ -11,7 +11,11 @@ https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w918
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai  TV
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
-
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2096000
+http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1772346709&playlistlength=5&shift=0&sid=coder_51&token=f259695889bd98f67f5c0dfd8cc4704e&user=37076
+#EXT-X-STREAM-INF:BANDWIDTH=796000
+http://149.255.152.199/arb24.m3u8?bandwidth=796&e=1772346709&playlistlength=5&shift=0&sid=coder_51&token=f259695889bd98f67f5c0dfd8cc4704e&user=37076
 
 #EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZERBAYCAN",ARB Gunes
 http://149.255.152.199/arbgunes.m3u8?bandwidth=2096&e=1772209365&playlistlength=5&shift=0&sid=coder_52&token=bf41e3562e366482343d26e232212bea&user=37076
@@ -1331,6 +1335,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
 #EXTINF:0,TR: BLOOMBERGHT HD
 #EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+
 
 
 
