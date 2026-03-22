@@ -74,15 +74,7 @@ https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:-1  group-title="AZERBAYCAN",Kanal S 
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=6096000
-http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1772353386&playlistlength=5&shift=0&sid=coder_57&token=ee7cdb231309e1d44c8a420579714eb1&user=37076
-#EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/kanals.m3u8?bandwidth=2096&e=1772353386&playlistlength=5&shift=0&sid=coder_57&token=ee7cdb231309e1d44c8a420579714eb1&user=37076
-#EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/kanals.m3u8?bandwidth=796&e=1772353386&playlistlength=5&shift=0&sid=coder_57&token=ee7cdb231309e1d44c8a420579714eb1&user=37076
-
-
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
