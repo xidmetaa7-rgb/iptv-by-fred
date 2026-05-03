@@ -9,7 +9,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="Kanal 12" ,Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 #EXTINF:-1 tvg-id="Alvin TV" ,Alvin TV
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w91852283.m3u8
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai  TV
 https://live.itv.az/itv.m3u8
 
