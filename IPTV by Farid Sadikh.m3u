@@ -414,8 +414,7 @@ https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 http://149.255.152.218/files/cinema_video/LV153L1X0QIUHW06ICN0AR1PK5D5ZZ7E.mp4
 
 
-#EXTINF:-1 group-title="KINO+📺",Peretz International
-https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+
 #EXTINF:-1 group-title="KINO+📺",viju+ Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD 
@@ -599,38 +598,6 @@ http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="KINO+📺",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
 
-#EXTINF:-1 group-title="Internet42 LLC", Ностальгия
-http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Ретро
-http://176.118.197.101/Retro/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", RTG TV
-http://176.118.197.125/RTG-TV/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Viasat Explore
-http://176.118.197.125/viju-Explore/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Viasat History
-http://176.118.197.125/viju-History/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Viasat Nature
-http://176.118.197.125/viju-Nature/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Boomerang
-http://176.118.197.125/Boomerang/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Бобёр
-http://176.118.197.125/Bober/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Ani
-http://176.118.197.125/Ani/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Gulli Girl
-http://176.118.197.125/Gulli-Girl/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", JimJam
-http://176.118.197.125/JimJam/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Карусель
-http://176.118.197.125/Karusel/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Мама
-http://176.118.197.125/Mama/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Матч ТВ
-http://176.118.197.125/Match/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", KHL
-http://176.118.197.101/KHL/index.m3u8
 
 
 
