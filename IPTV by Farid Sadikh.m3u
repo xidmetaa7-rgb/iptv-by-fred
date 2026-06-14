@@ -1753,9 +1753,10 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Спорт", Спортивный плейлист (Автообновление)
-#EXTMY2U: https://iptv.org.ua/iptv/sport.m3u
-
+#EXTM3U
+#EXT-X-SESSION-DATA:ID="PLAYLIST",VALUE="https://iptv.org.ua/iptv/sport.m3u"
+#EXTINF:-1 group-title="Спорт",Загрузка спортивных каналов...
+https://iptv.org.ua/iptv/sport.m3u
 
 
 
