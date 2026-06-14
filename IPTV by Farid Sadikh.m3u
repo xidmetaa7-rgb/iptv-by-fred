@@ -95,8 +95,6 @@ http://158.101.222.193:88/georgia_play.php?id=ctctv
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1 group-title="KINO+📺",TNT4 International+4
-https://river-1.rutube.ru/stream/genetta-419.ntv.rutube.ru/FbSUzFQK2OjZ9kPNqI-gJQ/1778226900/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
 #EXTINF:-1 group-title="KINO+📺",TNT4 International 
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tqp1eTtPVL7TXEdZ2UwuPQ&e=2071955027&scheme=https
 
@@ -167,7 +165,7 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="KINO+📺",Ю TB
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
-https://edge01r.mediavitrina.ru/dash-livef6/yu/index.mpd?token=v2.oi65OCHK55kE7sphGRO6vlTqxJoFZqtJM8kFoBRByPc.Iiw8MTQdx2Y0oNBxZ9tNawjrziRH93oJ3sWaWv9wiBg.1771844283.b966858633f2ce77fc06192dcda10652
+https://river-6-602.rtbcdn.ru/stream/genetta-304.m9.rutube.ru/cTBLuWAC8TPMkHUs_avFxg/1782053393/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
 #EXTINF:-1 group-title="KINO+📺",РОССИЯ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
@@ -181,7 +179,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
-
+#EXTINF:-1 group-title="Sport",MATCH TV FULL HD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
+https://river-3-347.rtbcdn.ru/hls-vod/vDEvE8bJ-GnoRk5gKeiUXg/1782053552/2682/0x5000039ce84060bd/a69b1a127d0143309ff8d0fa2de00c08.mp4/segment-15-v1-a1.ts
 #EXTINF:-1 group-title="KINO+📺",Че!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
