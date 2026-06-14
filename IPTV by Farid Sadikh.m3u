@@ -604,8 +604,7 @@ http://5.188.221.43:8080/play/kinosat
 
 
 #EXTINF:-1 group-title="СПОРТ ",спортик
-https://iptv.org.ua/iptv/sport.m3u
-
+#EXTM3U url="https://iptv.org.ua/iptv/sport.m3u"
 
 
 
