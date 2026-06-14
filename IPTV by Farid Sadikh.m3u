@@ -603,7 +603,6 @@ http://185.46.16.239:8000/Kino_TV
 http://5.188.221.43:8080/play/kinosat
 
 
-#EXTINF:-1 group-title="СПОРТ ",спортик
 #EXTM3U url="https://iptv.org.ua/iptv/sport.m3u"
 
 
