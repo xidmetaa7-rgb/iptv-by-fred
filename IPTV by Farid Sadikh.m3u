@@ -91,9 +91,11 @@ https://edge02r.mediavitrina.ru/dashp-livef6/ctc/index.mpd
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 #EXTINF:-1 group-title="KINO+📺",TNT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="KINO+📺",TNT4 International+4
 
+#EXTINF:-1 group-title="KINO+📺",TNT4 International+4
 https://river-1.rutube.ru/stream/genetta-419.ntv.rutube.ru/FbSUzFQK2OjZ9kPNqI-gJQ/1778226900/e90ba242c98400b075835c3c3eec999a/1080p_stream.m3u8
 #EXTINF:-1 group-title="KINO+📺",TNT4 International 
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tqp1eTtPVL7TXEdZ2UwuPQ&e=2071955027&scheme=https
@@ -101,8 +103,7 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tq
 
 
 #EXTINF:-1 group-title="KINO+📺",TNT International
-https://salam-nsk-mfon-d137.rtbcdn.ru/dive/river-3-329.rtbcdn.ru/CIGdc-W03YmKsovnHNAY_A/stream/genetta-326.m9.rutube.ru/sqMQi7L6qo35_--_EFIt1g/1772559532/f02b63bc8f0ed4dba04bbfce4a1119c5/1080p_stream.m3u8
-https://river-1.rutube.ru/stream/genetta-326.m9.rutube.ru/CIGdc-W03YmKsovnHNAY_A/1772559532/f02b63bc8f0ed4dba04bbfce4a1119c5/1080p_stream.m3u8
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTINF:-1 group-title="KINO+📺",THT TECT
 https://s113.ontvtime.ru/stream/FFA0945BCCDF67161820222426283044/i32f2ebb05552780e0192e8fd9c7b0785splaylist.m3u8
 #EXTINF:-1 group-title="KINO+📺",Perviy
