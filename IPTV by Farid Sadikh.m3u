@@ -112,37 +112,48 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 
 #EXTINF:-1 group-title="KINO+📺",HTB
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv0_foreign/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",HTB HD
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus1",НТВ +1 
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus2",НТВ +2 
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv2/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus4",НТВ +4 
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@Plus7",НТВ +7 
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD (1080p)
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVLaw.ru@SD",НТВ Право 
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVSeries.ru@SD",НТВ Сериал 
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru@SD",НТВ Стиль 
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит (576p)
-#EXTM3U http-user-agent="VLC"
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 
 
