@@ -105,7 +105,7 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tq
 #EXTINF:-1 group-title="KINO+📺",TNT International
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTINF:-1 group-title="KINO+📺",THT TECT
-https://s113.ontvtime.ru/stream/FFA0945BCCDF67161820222426283044/i32f2ebb05552780e0192e8fd9c7b0785splaylist.m3u8
+https://river-6-606.rtbcdn.ru/stream/genetta-321.m9.rutube.ru/0WDTcVTtsZDBG4np4n9L9g/1782052423/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 #EXTINF:-1 group-title="KINO+📺",Perviy
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
