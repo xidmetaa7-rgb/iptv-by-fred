@@ -85,9 +85,9 @@ http://185.46.16.239:8000/STS
 #EXTINF:-1 group-title="Инет",СТС HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
-https://edge02r.mediavitrina.ru/dashp-livef6/ctc/index.mpd
-#EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Развлекательные",СТС Int.
-http://158.101.222.193:88/georgia_play.php?id=ctctv
+
+https://edge01d.mediavitrina.ru/hls-livef6/ctc/tracks-t1/mono.ts.m3u8?token=v2.3SKIHoj_4jAICtW4J7IOPcJk6tJyWXAMxvMtQhmfRjw.LFpsozFJiMAKo9MGAKi-1eugQz7c9kzH5-f6EBxWMgQ.1782067298.be859b69d3a76e4d657e9057759bd6e7
+
 
 #EXTINF:-1 group-title="KINO+📺",TNT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
