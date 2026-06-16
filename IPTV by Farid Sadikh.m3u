@@ -82,9 +82,10 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 group-title="Инет",СТС
 http://185.46.16.239:8000/STS
-#EXTINF:-1 group-title="Инет",СТС HD
+
 #EXTINF:-1 tvg-name="CTC", CTC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-proxy=http://185.163.143.187:80
 https://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_STS/video_800x450_avc1/playlist.m3u8
 
 #EXTINF:-1 group-title="KINO+📺",TNT
