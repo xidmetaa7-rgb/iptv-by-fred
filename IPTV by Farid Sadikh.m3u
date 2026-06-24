@@ -25,7 +25,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8#EXT-X-STREAM-INF:BANDWIDTH=796000
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN",Az TV (1080p)
-https://str2.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjgxLjE4IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA5LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3ODIzMTI0MjYsImp0aSI6Ijg1ZWEyZDQyNzJkZGRiNTgifQ%3D%3D.im9cubNGJWU0qarUJMmLo0CMyboxk+HZA6xuiUoeF2I%3D
+
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad Azerbaycan TV
 https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
 
