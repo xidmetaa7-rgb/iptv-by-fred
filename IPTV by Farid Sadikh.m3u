@@ -723,29 +723,83 @@ http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
 http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 group-title="SPORT 🏆",sport Футбол 3 HD
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",Мир баскетбола
-http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
-http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",Extreme sports
-http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",ArtSport1HD
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ArtSport2
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ArtSport3
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ArtSport4
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ArtSport5
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ArtSport6
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",MaxSport1HR
-http://79.127.207.193:80/MaxSport1HR/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",MaxSport2HR
-http://79.127.207.193:80/MaxSport2HR/playlist.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport1HD
+
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 1
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 2
+http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Футбол 1
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Футбол 2
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Футбол 3
+http://stream.mcquack.net/185/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Игра
+http://stream.mcquack.net/188/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! СТРАНА
+http://stream.mcquack.net/143/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Арена
+http://stream.mcquack.net/163/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч ТВ
+http://stream.mcquack.net/169/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Боец
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч Премьер
+http://stream.mcquack.net/193/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports 1
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports 2
+http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports UA
+http://stream.mcquack.net/313/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports+
+http://stream.mcquack.net/390/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 1 Baltic
+http://stream.mcquack.net/461/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 1
+http://stream.mcquack.net/391/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 2
+http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 3
+http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 4
+http://stream.mcquack.net/394/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 5
+http://stream.mcquack.net/212/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Dynamo Kyiv TV
+http://stream.mcquack.net/396/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Trace Sports
+http://stream.mcquack.net/256/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Суспільне Спорт
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",DiVi Sport
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Maincast кіберспорт
+http://stream.mcquack.net/487/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Maincast sport
+http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",KHL ТВ
+http://stream.mcquack.net/166/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",KHL Prime
+http://stream.mcquack.net/178/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju+ Sport
+http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TV3 Sport LT
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Бокс ТВ
+http://stream.mcquack.net/154/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Беларусь 5
+http://stream.mcquack.net/33/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Extreme Sports
+http://stream.mcquack.net/148/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",UDAR
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Qazsport
+http://stream.mcquack.net/72/index.m3u8
+
+
+
+
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport2HD
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
