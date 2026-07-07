@@ -426,8 +426,7 @@ https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",d
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="КИНОШКИ ",Полночь на злаковом поле 
-http://149.255.152.218/files/cinema_video/LV153L1X0QIUHW06ICN0AR1PK5D5ZZ7E.mp4
+
 
 
 
@@ -584,11 +583,11 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="KINO+📺",NST
 http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
 
-#EXTINF:-1 group-title="Internet42 LLC", Драйв
+#EXTINF:-1 group-title="KINO+📺", Драйв
 http://176.118.197.125/Draiv/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", Здоровое ТВ
+#EXTINF:-1 group-title="KINO+📺", Здоровое ТВ
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
-#EXTINF:-1 group-title="Internet42 LLC", 2x2
+#EXTINF:-1 group-title="KINO+📺", 2x2
 http://176.118.197.101/2x2/index.m3u8
 
 
