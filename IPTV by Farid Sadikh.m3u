@@ -42,28 +42,34 @@ https://str2.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/space-tv.m3u8
 
-#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Xezer TV
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/4l8qZfW.png" group-title="AZERBAYCAN",Xezer TV
 https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Real Tv
+#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.imgur.com/n6YwK6P.png" group-title="AZERBAYCAN",Real Tv
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="AZERBAYCAN",Qafqaz TV
+
+#EXTINF:-1 tvg-id="QafqazTV.az" tvg-logo="https://i.imgur.com/8zXlYqW.png" group-title="AZERBAYCAN",Qafqaz TV
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="AZERBAYCAN",BIZNES TV 
+
+#EXTINF:-1 tvg-id="BiznesTV.az" tvg-logo="https://i.imgur.com/S9sJ1uK.png" group-title="AZERBAYCAN",BIZNES TV
 https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="AZERBAYCAN",EL TV
+
+#EXTINF:-1 tvg-id="ElTV.az" tvg-logo="https://i.imgur.com/7bKjQ9w.png" group-title="AZERBAYCAN",EL TV
 https://live.eltv.az/live/eltv/chunklist_w698965280.m3u8
-#EXTINF:-1  group-title="AZERBAYCAN",Naxcivan TV
+
+#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-logo="https://i.imgur.com/3n4aK8L.png" group-title="AZERBAYCAN",Naxcivan TV
 https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="AZERBAYCAN",Vostok TV
+
+#EXTINF:-1 tvg-id="VostokTV.az" tvg-logo="https://i.imgur.com/qL0lJzV.png" group-title="AZERBAYCAN",Vostok TV
 https://str.yodacdn.net/tmb/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="AZERBAYCAN",CBC Azerbaycan TV
+
+#EXTINF:-1 tvg-id="CBCAzerbaycan.az" tvg-logo="https://i.imgur.com/pZ6mD8a.png" group-title="AZERBAYCAN",CBC Azerbaycan TV
 https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  group-title="AZERBAYCAN",Kepez TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXT-X-DASH-CONTENT-TYPE:application/dash+xml
+
+#EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://i.imgur.com/w9vJtK2.png" group-title="AZERBAYCAN",Kepez TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
-#EXTINF:-1  group-title="AZERBAYCAN",Kanal S 
+
+#EXTINF:-1 tvg-id="KanalS.az" tvg-logo="https://i.imgur.com/uR2oJ0X.png" group-title="AZERBAYCAN",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" ,Kanal D
