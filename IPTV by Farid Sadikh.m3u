@@ -77,129 +77,142 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:-1  group-title="AZERBAYCAN",Kanal S 
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" ,Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:-1 group-title="Инет",СТС
+
+#EXTINF:-1 group-title="Россия 🇷🇺",СТС
 http://185.46.16.239:8000/STS
 
-#EXTINF:-1 tvg-name="CTC", CTC
+#EXTINF:-1 tvg-name="CTC" group-title="Россия 🇷🇺", CTC
 #EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
 https://a787201993-zabava-htlive.cdn.ngenix.net/hls/CH_STS/video_800x450_avc1/playlist.m3u8
 
-#EXTINF:-1 group-title="KINO+📺",TNT
+#EXTINF:-1 group-title="Россия 🇷🇺",TNT
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
 
-#EXTINF:-1 group-title="KINO+📺",TNT4 International 
+#EXTINF:-1 group-title="Россия 🇷🇺",TNT4 International
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tqp1eTtPVL7TXEdZ2UwuPQ&e=2071955027&scheme=https
 
-
-
-
-#EXTINF:-1 group-title="KINO+📺",THT TECT
+#EXTINF:-1 group-title="Россия 🇷🇺",THT TECT
 http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/18.png" group-title="Общественные" ,Рен ТВ
+
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/18.png" group-title="Россия 🇷🇺",Рен ТВ
 #EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
 http://46.32.64.39:10011
 
-#EXTINF:-1 group-title="KINO+📺",Perviy
+#EXTINF:-1 group-title="Россия 🇷🇺",Perviy
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-
-#EXTINF:-1 group-title="KINO+📺",HTB
+#EXTINF:-1 group-title="Россия 🇷🇺",HTB
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv0_foreign/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",HTB HD
+
+#EXTINF:-1 group-title="Россия 🇷🇺",HTB HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus1",НТВ +1 
+
+#EXTINF:-1 tvg-id="NTV.ru@Plus1" group-title="Россия 🇷🇺",НТВ +1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv1/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus2",НТВ +2 
+
+#EXTINF:-1 tvg-id="NTV.ru@Plus2" group-title="Россия 🇷🇺",НТВ +2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv2/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus4",НТВ +4 
+
+#EXTINF:-1 tvg-id="NTV.ru@Plus4" group-title="Россия 🇷🇺",НТВ +4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv4/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@Plus7",НТВ +7 
+
+#EXTINF:-1 tvg-id="NTV.ru@Plus7" group-title="Россия 🇷🇺",НТВ +7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv7/playlist.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@HD",НТВ HD (1080p)
+
+#EXTINF:-1 tvg-id="NTV.ru@HD" group-title="Россия 🇷🇺",НТВ HD (1080p)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVLaw.ru@SD",НТВ Право 
+
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD" group-title="Россия 🇷🇺",НТВ Право
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVSeries.ru@SD",НТВ Сериал 
+
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD" group-title="Россия 🇷🇺",НТВ Сериал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVStyle.ru@SD",НТВ Стиль 
+
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD" group-title="Россия 🇷🇺",НТВ Стиль
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVHit.ru@SD",НТВ Хит (576p)
+
+#EXTINF:-1 tvg-id="NTVHit.ru@SD" group-title="Россия 🇷🇺",НТВ Хит (576p)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Развлекательные",Перец
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://iptvx.one/picons/perec.png" group-title="Россия 🇷🇺",Перец
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 http://158.101.222.193:88/georgia_play.php?id=perec
 
-
-#EXTINF:-1 group-title="KINO+📺",Ю TB
+#EXTINF:-1 group-title="Россия 🇷🇺",Ю TB
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://river-6-602.rtbcdn.ru/stream/genetta-304.m9.rutube.ru/cTBLuWAC8TPMkHUs_avFxg/1782053393/5c9327074e25ca86f3111d4085cbbb65/720p_stream.m3u8
-#EXTINF:-1 group-title="KINO+📺",РОССИЯ 1
+
+#EXTINF:-1 group-title="Россия 🇷🇺",РОССИЯ 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="KINO+📺",РОССИЯ 24
+#EXTINF:-1 group-title="Россия 🇷🇺",РОССИЯ 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1 group-title="KINO+📺",РОССИЯ K
+
+#EXTINF:-1 group-title="Россия 🇷🇺",РОССИЯ K
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_102_319a299f/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",MATCH TV FULL HD 
+
+#EXTINF:-1 group-title="Россия 🇷🇺",MATCH TV FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 https://river-6-605.rtbcdn.ru/stream/genetta-414.ntv.rutube.ru/qxvq9uMSGjNDOajn0012Yw/1782054598/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
 
-
-#EXTINF:-1 group-title="KINO+📺",Че!
+#EXTINF:-1 group-title="Россия 🇷🇺",Че!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 http://5.188.221.43:8080/play/che
-#EXTINF:-1 group-title="KINO+📺",ТV 3
+
+#EXTINF:-1 group-title="Россия 🇷🇺",ТV 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 http://5.188.221.43:8080/play/tv3
-#EXTINF:-1 group-title="KINO+📺",Пятница! International
+
+#EXTINF:-1 group-title="Россия 🇷🇺",Пятница! International
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 http://158.101.222.193:88/georgia_play.php?id=friday
-#EXTINF:-1 group-title="KINO+📺",Пятница
+
+#EXTINF:-1 group-title="Россия 🇷🇺",Пятница
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXT-X-DASH-CONTENT-TYPE:application/dash+xml
 http://5.188.221.43:8080/play/Pyatnica
+
+
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",MEGA HD
