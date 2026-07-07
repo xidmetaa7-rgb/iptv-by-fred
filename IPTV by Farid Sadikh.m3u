@@ -221,211 +221,142 @@ http://cdn-bal.srv4you.net/0171/mpegts
 http://185.57.68.33/40/index.m3u8
 
 
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
+#EXTINF:-1 tvg-id="rybalka" tvg-logo="https://iptvx.one/picons/rybalka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
+#EXTINF:-1 tvg-id="zdorovyj-obraz-zhizni" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
 http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
+#EXTINF:-1 tvg-id="motorvision-tv" tvg-logo="https://iptvx.one/picons/motorvision-tv.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",24 техно
+#EXTINF:-1 tvg-id="24-techno" tvg-logo="https://iptvx.one/picons/24-techno.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",24 техно
 http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
+#EXTINF:-1 tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
 http://158.101.222.193:88/georgia_play.php?id=zoo
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
+#EXTINF:-1 tvg-id="muzhskoy" tvg-logo="https://iptvx.one/picons/muzhskoy.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+#EXTINF:-1 tvg-id="auto-plus" tvg-logo="https://iptvx.one/picons/auto-plus.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+#EXTINF:-1 tvg-id="auto24" tvg-logo="https://iptvx.one/picons/auto24.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ДРАЙВ 20
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ДРАЙВ 20
 http://185.164.82.18:9009/aDxLhVQm_Drive
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета HD
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
+#EXTINF:-1 tvg-id="doctor" tvg-logo="https://iptvx.one/picons/doctor.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
 http://185.46.16.239:8000/Doktor
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая планета
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
 http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
 http://hls127.freeott.top:8080/NAUKA/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
 http://hls127.freeott.top:8080/RTG_TV/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
+#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://iptvx.one/picons/animal-planet.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Приключения
+#EXTINF:-1 tvg-id="priklyucheniya" tvg-logo="https://iptvx.one/picons/priklyucheniya.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Первый Космический
+#EXTINF:-1 tvg-id="pervyy-kosmicheskiy" tvg-logo="https://iptvx.one/picons/pervyy-kosmicheskiy.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Первый Космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охотник и Рыболов HD
+#EXTINF:-1 tvg-id="ohotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/ohotnik-i-rybolov.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охотник и Рыболов HD
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+#EXTINF:-1 tvg-id="ohota-i-rybalka" tvg-logo="https://iptvx.one/picons/ohota-i-rybalka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
 https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Вопросы и Ответы
+#EXTINF:-1 tvg-id="voprosy-otvety" tvg-logo="https://iptvx.one/picons/voprosy-otvety.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Вопросы и Ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",В Мире Животных
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",В Мире Животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",NAT GEO WILD
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",NAT GEO WILD
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Insight TV HD
+#EXTINF:-1 tvg-id="insight-tv-hd" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Insight TV HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка 
+#EXTINF:-1 tvg-id="tochka" tvg-logo="https://iptvx.one/picons/tochka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Планета
+#EXTINF:-1 tvg-id="zhivaya-planeta" tvg-logo="https://iptvx.one/picons/zhivaya-planeta.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Планета
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+#EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка Отрыва
+#EXTINF:-1 tvg-id="tochka-otryva" tvg-logo="https://iptvx.one/picons/tochka-otryva.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка Отрыва
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
+#EXTINF:-1 tvg-id="zoopark" tvg-logo="https://iptvx.one/picons/zoopark.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Здоровое ТВ
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Здоровое ТВ
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи Активно HD
+#EXTINF:-1 tvg-id="zhivi" tvg-logo="https://iptvx.one/picons/zhivi.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи Активно HD
 https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи
+#EXTINF:-1 tvg-id="zhivi" tvg-logo="https://iptvx.one/picons/zhivi.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Драйв
+#EXTINF:-1 tvg-id="drive" tvg-logo="https://iptvx.one/picons/drive.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Драйв
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
+#EXTINF:-1 tvg-id="doctor" tvg-logo="https://iptvx.one/picons/doctor.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
+#EXTINF:-1 tvg-id="auto-plus" tvg-logo="https://iptvx.one/picons/auto-plus.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+#EXTINF:-1 tvg-id="auto24" tvg-logo="https://iptvx.one/picons/auto24.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗАГОРОДНЫЙ
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗАГОРОДНЫЙ
 https://stream8.cinerama.uz/1410/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
 http://178.134.1.158:8081/nauka/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
 http://178.124.153.123:44400/rtg
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
+#EXTINF:-1 tvg-id="ocean-tv" tvg-logo="https://iptvx.one/picons/ocean-tv.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
 http://86.57.209.210/Ocean/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://iptvx.one/picons/moya-planeta.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+#EXTINF:-1 tvg-id="nauka" tvg-logo="https://iptvx.one/picons/nauka.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
 http://hls127.freeott.top:8080/NAUKA/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
 http://hls127.freeott.top:8080/RTG_TV/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Clarity4K Звериный мир
+#EXTINF:-1 tvg-id="clarity4k-zverinyy-mir" tvg-logo="https://iptvx.one/picons/clarity4k-zverinyy-mir.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Clarity4K Звериный мир
 http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Clarity4K Космомир
+#EXTINF:-1 tvg-id="clarity4k-kosmomir" tvg-logo="https://iptvx.one/picons/clarity4k-kosmomir.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Clarity4K Космомир
 http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Clarity4K Путешествие
+#EXTINF:-1 tvg-id="clarity4k-puteshestviya" tvg-logo="https://iptvx.one/picons/clarity4k-puteshestviya.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Clarity4K Путешествие
 http://hls127.freeott.top:8080/Clarity4K_Puteshestviya/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", RTG TV
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
 http://176.118.197.125/RTG-TV/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Viasat Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
 http://176.118.197.125/viju-Explore/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
 http://176.118.197.125/viju-History/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Viasat Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 http://176.118.197.125/viju-Nature/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ", Cartoon Network
-
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://iptvx.one/picons/cartoon-network.png" group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Cartoon Network
 https://edge06-alm.beetv.kz/bpk-token/3an@1ojyiuvoebdrgx2gu5spesqritwlcgcn1y5tauba/bpk-tv/000000015/tve/000000015-video=2137600.m3u8
 https://edge06-alm.beetv.kz/bpk-token/3an@1ojyiuvoebdrgx2gu5spesqritwlcgcn1y5tauba/bpk-tv/000000015/tve/000000015-audio_82882_rus=82400.m3u8
 
 
 
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Travel+Adventure
-http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
-http://45.145.32.13:20440/viasat_explore/index.m3u8?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
-http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
-http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Big Planet
-http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Galaxy
-http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Приключения
-https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Первый Космический
-https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охотник и Рыболов HD
-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
-https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста
-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Вопросы и Ответы
-https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",В Мире Животных
-https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",NAT GEO WILD
-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Insight TV HD
-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка
-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Планета
-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Усадьба
-https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка Отрыва
-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Здоровое ТВ
-https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи Активно HD
-https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи
-https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Драйв
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",d
-https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 
 
 
