@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="Kanal12.az" tvg-logo="https://i.imgur.com/VC7Q18V.png" group-title="AZERBAYCAN",Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="AZERBAYCAN",Ictimai TV HD
+https://live.itv.az/itv.m3u8
+
 #EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/ictimai-tv.m3u8
 
