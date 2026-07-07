@@ -635,319 +635,306 @@ http://stream.mcquack.net/279/index.m3u8
 http://stream.mcquack.net/72/index.m3u8
 
 
-
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="c64170ec0934bf9374b7f20f851968e0",A HABER
+#EXTINF:-1 tvg-id="c64170ec0934bf9374b7f20f851968e0" tvg-logo="https://i.imgur.com/H1z4x9x.png" group-title="Turkiye 🇹🇷",A HABER
 http://176.65.146.171:9981/stream/channelid/1819296198?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="5d7a674694449f4830451440e03d67ba",A HABER HD
+#EXTINF:-1 tvg-id="5d7a674694449f4830451440e03d67ba" tvg-logo="https://i.imgur.com/H1z4x9x.png" group-title="Turkiye 🇹🇷",A HABER HD
 http://176.65.146.171:9981/stream/channelid/1181186653?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="b779419f4d037c0918a2876b8193ea94",A NEWS HD
+#EXTINF:-1 tvg-id="b779419f4d037c0918a2876b8193ea94" tvg-logo="https://i.imgur.com/lM5h8n4.png" group-title="Turkiye 🇹🇷",A NEWS HD
 http://176.65.146.171:9981/stream/channelid/524384695?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="b0a143b4814428c276941f6698306b03",A PARA HD
+#EXTINF:-1 tvg-id="b0a143b4814428c276941f6698306b03" tvg-logo="https://i.imgur.com/O6LqP8z.png" group-title="Turkiye 🇹🇷",A PARA HD
 http://176.65.146.171:9981/stream/channelid/876847536?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="3236a218d92130bb04fc0fb7a122b89a",A SPOR
+#EXTINF:-1 tvg-id="3236a218d92130bb04fc0fb7a122b89a" tvg-logo="https://i.imgur.com/kS9wA2Y.png" group-title="Turkiye 🇹🇷",A SPOR
 http://176.65.146.171:9981/stream/channelid/413283890?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="4e627eddce2a751027781577fd9fbaeb",A SPOR HD
+#EXTINF:-1 tvg-id="4e627eddce2a751027781577fd9fbaeb" tvg-logo="https://i.imgur.com/kS9wA2Y.png" group-title="Turkiye 🇹🇷",A SPOR HD
 http://176.65.146.171:9981/stream/channelid/1568563790?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="db368565aed38a4d6446e7fa75bfd714",A2 HD
+#EXTINF:-1 tvg-id="db368565aed38a4d6446e7fa75bfd714" tvg-logo="https://i.imgur.com/T0tB8m4.png" group-title="Turkiye 🇹🇷",A2 HD
 http://176.65.146.171:9981/stream/channelid/1703229147?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="500c3cdb5a7acc7a0455474573df258b",AGRO TV
+#EXTINF:-1 tvg-id="500c3cdb5a7acc7a0455474573df258b" tvg-logo="https://i.imgur.com/E8wA3z1.png" group-title="Turkiye 🇹🇷",AGRO TV
 http://176.65.146.171:9981/stream/channelid/1530661968?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="dc9eee7736333564ab0f0f2298bd1fb9",AKIT TV HD
+#EXTINF:-1 tvg-id="dc9eee7736333564ab0f0f2298bd1fb9" tvg-logo="https://i.imgur.com/R3aZ4x9.png" group-title="Turkiye 🇹🇷",AKIT TV HD
 http://176.65.146.171:9981/stream/channelid/2012126940?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="79573cb9fb8cbcf75731dc92d79afef7",ANADOLUM
+#EXTINF:-1 tvg-id="79573cb9fb8cbcf75731dc92d79afef7" tvg-logo="https://i.imgur.com/P0qW7v3.png" group-title="Turkiye 🇹🇷",ANADOLUM
 http://176.65.146.171:9981/stream/channelid/960255865?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0ec6b83cece1b4fa8a9a4b0714998e1e",ATV
+#EXTINF:-1 tvg-id="0ec6b83cece1b4fa8a9a4b0714998e1e" tvg-logo="https://i.imgur.com/a4f5G6j.png" group-title="Turkiye 🇹🇷",ATV
 http://176.65.146.171:9981/stream/channelid/1018742286?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="af305c0603728360d7224df3f346e9bd",ATV HD
+#EXTINF:-1 tvg-id="af305c0603728360d7224df3f346e9bd" tvg-logo="https://i.imgur.com/a4f5G6j.png" group-title="Turkiye 🇹🇷",ATV HD
 http://176.65.146.171:9981/stream/channelid/106705071?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="173f82b65e715c492fac0124d1e70979",BBC EARTH
+#EXTINF:-1 tvg-id="173f82b65e715c492fac0124d1e70979" tvg-logo="https://i.imgur.com/K8jL2m9.png" group-title="Turkiye 🇹🇷",BBC EARTH
 http://176.65.146.171:9981/stream/channelid/914505495?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="64d720b964d6257025a6433ed7d9ac0b",BEA
+#EXTINF:-1 tvg-id="64d720b964d6257025a6433ed7d9ac0b" tvg-logo="https://i.imgur.com/u7nI5p3.png" group-title="Turkiye 🇹🇷",BEA
 http://176.65.146.171:9981/stream/channelid/958453604?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="2a952c8e0ae686171af5a999080c8062",BENG⅛ T⅛RK HD
+#EXTINF:-1 tvg-id="2a952c8e0ae686171af5a999080c8062" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",BENGÜ TÜRK HD
 http://176.65.146.171:9981/stream/channelid/237802794?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="81e307d94f1f128e72a9e9392958e0cd",BEYAZ TV HD
+#EXTINF:-1 tvg-id="81e307d94f1f128e72a9e9392958e0cd" tvg-logo="https://i.imgur.com/b6mN9x2.png" group-title="Turkiye 🇹🇷",BEYAZ TV HD
 http://176.65.146.171:9981/stream/channelid/1493689217?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="62898288f9ec15e433ea961d8fab4b16",CAY TV
+#EXTINF:-1 tvg-id="62898288f9ec15e433ea961d8fab4b16" tvg-logo="https://i.imgur.com/n4vB7z0.png" group-title="Turkiye 🇹🇷",CAY TV
 http://176.65.146.171:9981/stream/channelid/142772578?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="315bfce63e0dbb24f852c67a63d2de84",CNBC-E
+#EXTINF:-1 tvg-id="315bfce63e0dbb24f852c67a63d2de84" tvg-logo="https://i.imgur.com/i8kL3w9.png" group-title="Turkiye 🇹🇷",CNBC-E
 http://176.65.146.171:9981/stream/channelid/1727814449?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="5d74c90ea031f34f7f7c680ab7e7e393",CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="5d74c90ea031f34f7f7c680ab7e7e393" tvg-logo="https://i.imgur.com/f2gH8k4.png" group-title="Turkiye 🇹🇷",CNN INTERNATIONAL
 http://176.65.146.171:9981/stream/channelid/248083549?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="21599406c5dced1f502d164e7d27db32",CNN TÜRK HD
+#EXTINF:-1 tvg-id="21599406c5dced1f502d164e7d27db32" tvg-logo="https://i.imgur.com/w8qM3v1.png" group-title="Turkiye 🇹🇷",CNN TÜRK HD
 http://176.65.146.171:9981/stream/channelid/110385441?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="a1e5a267c1ce7c435dedf104c1d07d45",COSMO EN
+#EXTINF:-1 tvg-id="a1e5a267c1ce7c435dedf104c1d07d45" tvg-logo="https://i.imgur.com/t9vR5x8.png" group-title="Turkiye 🇹🇷",COSMO EN
 http://176.65.146.171:9981/stream/channelid/1738728865?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="75c571b278e3ea9a692444b64f4832c3",DAZN 1
+#EXTINF:-1 tvg-id="75c571b278e3ea9a692444b64f4832c3" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",DAZN 1
 http://176.65.146.171:9981/stream/channelid/846316917?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="a84f2f8453a93cb5555f37e3caebd865",DAZN 2
+#EXTINF:-1 tvg-id="a84f2f8453a93cb5555f37e3caebd865" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",DAZN 2
 http://176.65.146.171:9981/stream/channelid/70209448?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="d71d6ad54660eb2ebe1bd21353f034d4",DIYANET TV HD
+#EXTINF:-1 tvg-id="d71d6ad54660eb2ebe1bd21353f034d4" tvg-logo="https://i.imgur.com/k1jH9b8.png" group-title="Turkiye 🇹🇷",DIYANET TV HD
 http://176.65.146.171:9981/stream/channelid/1433017815?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="5202c9404c7c1751ef577d8f271615c4",DMAX
+#EXTINF:-1 tvg-id="5202c9404c7c1751ef577d8f271615c4" tvg-logo="https://i.imgur.com/w9vM4x2.png" group-title="Turkiye 🇹🇷",DMAX
 http://176.65.146.171:9981/stream/channelid/1086915154?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="1752ffcf52cd07520c781683cffd951c",DMAX HD
+#EXTINF:-1 tvg-id="1752ffcf52cd07520c781683cffd951c" tvg-logo="https://i.imgur.com/w9vM4x2.png" group-title="Turkiye 🇹🇷",DMAX HD
 http://176.65.146.171:9981/stream/channelid/1342132759?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="3f2c5f61fa3526c822e99da5cebe3105",DOST TV
+#EXTINF:-1 tvg-id="3f2c5f61fa3526c822e99da5cebe3105" tvg-logo="https://i.imgur.com/e7rF2v9.png" group-title="Turkiye 🇹🇷",DOST TV
 http://176.65.146.171:9981/stream/channelid/1633627199?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="62d29c6eda43fa9db5feadd103036510",DREAM TÜRK
+#EXTINF:-1 tvg-id="62d29c6eda43fa9db5feadd103036510" tvg-logo="https://i.imgur.com/y4uN6k8.png" group-title="Turkiye 🇹🇷",DREAM TÜRK
 http://176.65.146.171:9981/stream/channelid/1855771234?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="e373027e6ef49067ab48c6e319731806",DRT DENIZLI TV
+#EXTINF:-1 tvg-id="e373027e6ef49067ab48c6e319731806" tvg-logo="https://i.imgur.com/z1xC5w9.png" group-title="Turkiye 🇹🇷",DRT DENIZLI TV
 http://176.65.146.171:9981/stream/channelid/2114089955?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="700f1a526f4eef8e1b23d7e4d18aa500",EDESSA TV
+#EXTINF:-1 tvg-id="700f1a526f4eef8e1b23d7e4d18aa500" tvg-logo="https://i.imgur.com/b9nM3x7.png" group-title="Turkiye 🇹🇷",EDESSA TV
 http://176.65.146.171:9981/stream/channelid/1377439600?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="823ca6743d36b9a034f9de38758abdfa",EKOL TV HD
+#EXTINF:-1 tvg-id="823ca6743d36b9a034f9de38758abdfa" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",EKOL TV HD
 http://176.65.146.171:9981/stream/channelid/1957051522?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="1948e551fc0d0937c8b31e3035932d11",EKOTURK HD
+#EXTINF:-1 tvg-id="1948e551fc0d0937c8b31e3035932d11" tvg-logo="https://i.imgur.com/d4gH6x1.png" group-title="Turkiye 🇹🇷",EKOTURK HD
 http://176.65.146.171:9981/stream/channelid/1373980697?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="dbaa72daeea2ace8f53bc308f6168b2d",EUROSPORT 1
+#EXTINF:-1 tvg-id="dbaa72daeea2ace8f53bc308f6168b2d" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",EUROSPORT 1
 http://176.65.146.171:9981/stream/channelid/1517464283?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="6192f239d13221bcaf0fe582d0f06f1e",EUROSPORT 2
+#EXTINF:-1 tvg-id="6192f239d13221bcaf0fe582d0f06f1e" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",EUROSPORT 2
 http://176.65.146.171:9981/stream/channelid/972198497?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="6a00ee8b9d22dd8bf5e77b08bf47edfb",FB TV
+#EXTINF:-1 tvg-id="6a00ee8b9d22dd8bf5e77b08bf47edfb" tvg-logo="https://i.imgur.com/x2cV5n9.png" group-title="Turkiye 🇹🇷",FB TV
 http://176.65.146.171:9981/stream/channelid/200147050?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="05f45fb2dbe611d72f3f3d091dbeed2b",FM TV
+#EXTINF:-1 tvg-id="05f45fb2dbe611d72f3f3d091dbeed2b" tvg-logo="https://i.imgur.com/u3nM4k7.png" group-title="Turkiye 🇹🇷",FM TV
 http://176.65.146.171:9981/stream/channelid/845149189?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="61202d16773e6e0ccac3dfc2ca7eb82c",FREEDOM
+#EXTINF:-1 tvg-id="61202d16773e6e0ccac3dfc2ca7eb82c" tvg-logo="https://i.imgur.com/n1bV9x3.png" group-title="Turkiye 🇹🇷",FREEDOM
 http://176.65.146.171:9981/stream/channelid/372056161?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="67e1dce074798597337b786c4a49dd55",GENC TV
+#EXTINF:-1 tvg-id="67e1dce074798597337b786c4a49dd55" tvg-logo="https://i.imgur.com/m5hF8v1.png" group-title="Turkiye 🇹🇷",GENC TV
 http://176.65.146.171:9981/stream/channelid/1625088359?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="d46bd0bfcfc42098728e2e1ac8deb5cb",GOZDE TV
+#EXTINF:-1 tvg-id="d46bd0bfcfc42098728e2e1ac8deb5cb" tvg-logo="https://i.imgur.com/t2qR6x9.png" group-title="Turkiye 🇹🇷",GOZDE TV
 http://176.65.146.171:9981/stream/channelid/1070623700?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="674eedade3fa1b303d46b2426568bc6b",GRT TV
+#EXTINF:-1 tvg-id="674eedade3fa1b303d46b2426568bc6b" tvg-logo="https://i.imgur.com/a4gN9k2.png" group-title="Turkiye 🇹🇷",GRT TV
 http://176.65.146.171:9981/stream/channelid/770526823?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="d8264c6d8f55314ac4f94072077cc506",GUNEYDOGU TV
+#EXTINF:-1 tvg-id="d8264c6d8f55314ac4f94072077cc506" tvg-logo="https://i.imgur.com/s6vF2n9.png" group-title="Turkiye 🇹🇷",GUNEYDOGU TV
 http://176.65.146.171:9981/stream/channelid/1833707224?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="372763c03d4c361287aba51808f38a03",HABER GLOBAL
+#EXTINF:-1 tvg-id="372763c03d4c361287aba51808f38a03" tvg-logo="https://i.imgur.com/x5zV3k8.png" group-title="Turkiye 🇹🇷",HABER GLOBAL
 http://176.65.146.171:9981/stream/channelid/1080239927?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="4306d1de181d6d437b1da8d8c374a814",HABER GLOBAL HD
+#EXTINF:-1 tvg-id="4306d1de181d6d437b1da8d8c374a814" tvg-logo="https://i.imgur.com/x5zV3k8.png" group-title="Turkiye 🇹🇷",HABER GLOBAL HD
 http://176.65.146.171:9981/stream/channelid/1590756931?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="d52d6589c2ab5f29b02c9b88d8cc5e6c",HALK TV HD
+#EXTINF:-1 tvg-id="d52d6589c2ab5f29b02c9b88d8cc5e6c" tvg-logo="https://i.imgur.com/j9nM4x1.png" group-title="Turkiye 🇹🇷",HALK TV HD
 http://176.65.146.171:9981/stream/channelid/157625813?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f2eb148e08471393fb9601a2f1207402",HG INTERCOM
+#EXTINF:-1 tvg-id="f2eb148e08471393fb9601a2f1207402" tvg-logo="https://i.imgur.com/v1bN5k9.png" group-title="Turkiye 🇹🇷",HG INTERCOM
 http://176.65.146.171:9981/stream/channelid/236252146?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="ac11f1251e3bc8ac7f2ee48d60f6c175",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="ac11f1251e3bc8ac7f2ee48d60f6c175" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",HISTORY CHANNEL
 http://176.65.146.171:9981/stream/channelid/636555692?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="d267f5738f60cbaca8d274bf169ad6ac",HRT TV
+#EXTINF:-1 tvg-id="d267f5738f60cbaca8d274bf169ad6ac" tvg-logo="https://i.imgur.com/c4vM8x3.png" group-title="Turkiye 🇹🇷",HRT TV
 http://176.65.146.171:9981/stream/channelid/1945462738?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f35edc59a4522a7385b4094b18c8c625",HT SPOR
+#EXTINF:-1 tvg-id="f35edc59a4522a7385b4094b18c8c625" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",HT SPOR
 http://176.65.146.171:9981/stream/channelid/1507614451?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="bca0d48643fb8203cdeb2f79264ce67c",K KARDELEN TV
+#EXTINF:-1 tvg-id="bca0d48643fb8203cdeb2f79264ce67c" tvg-logo="https://i.imgur.com/n1bV9x3.png" group-title="Turkiye 🇹🇷",K KARDELEN TV
 http://176.65.146.171:9981/stream/channelid/114598076?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="705af0cfc4182f51e9186cafd1e77377",KADIRGA TV
+#EXTINF:-1 tvg-id="705af0cfc4182f51e9186cafd1e77377" tvg-logo="https://i.imgur.com/t2qR6x9.png" group-title="Turkiye 🇹🇷",KADIRGA TV
 http://176.65.146.171:9981/stream/channelid/1341151856?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="4bfba51eacac7d15d6abb06d103b279f",KANAL 3 HD
+#EXTINF:-1 tvg-id="4bfba51eacac7d15d6abb06d103b279f" tvg-logo="https://i.imgur.com/z1xC5w9.png" group-title="Turkiye 🇹🇷",KANAL 3 HD
 http://176.65.146.171:9981/stream/channelid/514194251?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="ccbf5b35cb1a485d6a80bc61705f05b8",KANAL 32
+#EXTINF:-1 tvg-id="ccbf5b35cb1a485d6a80bc61705f05b8" tvg-logo="https://i.imgur.com/z1xC5w9.png" group-title="Turkiye 🇹🇷",KANAL 32
 http://176.65.146.171:9981/stream/channelid/895205324?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="16e04ade8a0ccd99e395158dd56cec13",KANAL 33
+#EXTINF:-1 tvg-id="16e04ade8a0ccd99e395158dd56cec13" tvg-logo="https://i.imgur.com/z1xC5w9.png" group-title="Turkiye 🇹🇷",KANAL 33
 http://176.65.146.171:9981/stream/channelid/1581965334?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="e208d9d8320406a5c3f00150d670eacb",KANAL 7 AVRUPA HD
+#EXTINF:-1 tvg-id="e208d9d8320406a5c3f00150d670eacb" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",KANAL 7 AVRUPA HD
 http://176.65.146.171:9981/stream/channelid/1490618594?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="5b8b86adce9941a70819820c60ef63d4",KANAL AVRUPA
+#EXTINF:-1 tvg-id="5b8b86adce9941a70819820c60ef63d4" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",KANAL AVRUPA
 http://176.65.146.171:9981/stream/channelid/763792219?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f2356501803ac729deb8a62bc5958156",KANAL D HD
+#EXTINF:-1 tvg-id="f2356501803ac729deb8a62bc5958156" tvg-logo="https://i.imgur.com/y8vF2k1.png" group-title="Turkiye 🇹🇷",KANAL D HD
 http://176.65.146.171:9981/stream/channelid/23410162?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="6501806b1b4cb069e6c475ea2e07da4e",KANAL URFA
+#EXTINF:-1 tvg-id="6501806b1b4cb069e6c475ea2e07da4e" tvg-logo="https://i.imgur.com/a9nM4x7.png" group-title="Turkiye 🇹🇷",KANAL URFA
 http://176.65.146.171:9981/stream/channelid/1803551077?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="fa9aa8822e567dd28de316db65c70d9e",KARADENIZ FM
+#EXTINF:-1 tvg-id="fa9aa8822e567dd28de316db65c70d9e" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",KARADENIZ FM
 http://176.65.146.171:9981/stream/channelid/44604154?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="e6db872599edad34f2eac045acba9b15",KIBRIS TV HD
+#EXTINF:-1 tvg-id="e6db872599edad34f2eac045acba9b15" tvg-logo="https://i.imgur.com/m2vN8x3.png" group-title="Turkiye 🇹🇷",KIBRIS TV HD
 http://176.65.146.171:9981/stream/channelid/629660646?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="d3f2ce98bd34a9825662816ff3f0f282",KON TV
+#EXTINF:-1 tvg-id="d3f2ce98bd34a9825662816ff3f0f282" tvg-logo="https://i.imgur.com/n1bV9x3.png" group-title="Turkiye 🇹🇷",KON TV
 http://176.65.146.171:9981/stream/channelid/416215763?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0331b3048a0d97778b71dd524bfc8295",KOY TV
+#EXTINF:-1 tvg-id="0331b3048a0d97778b71dd524bfc8295" tvg-logo="https://i.imgur.com/b9nM3x7.png" group-title="Turkiye 🇹🇷",KOY TV
 http://176.65.146.171:9981/stream/channelid/78852355?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="ced429655f0e49e491f9e0074a621abb",KOZA TV
+#EXTINF:-1 tvg-id="ced429655f0e49e491f9e0074a621abb" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",KOZA TV
 http://176.65.146.171:9981/stream/channelid/1697240270?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f6db75a3c1085bffee8fee530af3b1ba",KRAL FM
+#EXTINF:-1 tvg-id="f6db75a3c1085bffee8fee530af3b1ba" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",KRAL FM
 http://176.65.146.171:9981/stream/channelid/594926582?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="23c44ae540fc09319a5d06afba4ba82b",KRAL POP
+#EXTINF:-1 tvg-id="23c44ae540fc09319a5d06afba4ba82b" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",KRAL POP
 http://176.65.146.171:9981/stream/channelid/1699398691?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0a29340ed98210fe023e1a6eac038255",KRT TV HD
+#EXTINF:-1 tvg-id="0a29340ed98210fe023e1a6eac038255" tvg-logo="https://i.imgur.com/j8nF5v2.png" group-title="Turkiye 🇹🇷",KRT TV HD
 http://176.65.146.171:9981/stream/channelid/238299402?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="662a652c40a7835234d22c364cdcd1b3",KUDUS TV
+#EXTINF:-1 tvg-id="662a652c40a7835234d22c364cdcd1b3" tvg-logo="https://i.imgur.com/s4vM8x9.png" group-title="Turkiye 🇹🇷",KUDUS TV
 http://176.65.146.171:9981/stream/channelid/744827494?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f73a5f8a176857e5cfa112d31ff4c28d",LALEGUL TV
+#EXTINF:-1 tvg-id="f73a5f8a176857e5cfa112d31ff4c28d" tvg-logo="https://i.imgur.com/a9nM4x7.png" group-title="Turkiye 🇹🇷",LALEGUL TV
 http://176.65.146.171:9981/stream/channelid/174013175?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="012025ec746c672cebbdd6baea0b0419",LINE TV
+#EXTINF:-1 tvg-id="012025ec746c672cebbdd6baea0b0419" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",LINE TV
 http://176.65.146.171:9981/stream/channelid/1814372353?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="4fa80fd60fc3d79379c54d7f975ad9cb",LOVE NATURE
+#EXTINF:-1 tvg-id="4fa80fd60fc3d79379c54d7f975ad9cb" tvg-logo="https://i.imgur.com/w9vM4x2.png" group-title="Turkiye 🇹🇷",LOVE NATURE
 http://176.65.146.171:9981/stream/channelid/1443866703?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="fa56c262627e2d2cedf997aa5e5aacb0",LUYS TV
+#EXTINF:-1 tvg-id="fa56c262627e2d2cedf997aa5e5aacb0" tvg-logo="https://i.imgur.com/c1bV5k8.png" group-title="Turkiye 🇹🇷",LUYS TV
 http://176.65.146.171:9981/stream/channelid/1656903418?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="91b8402e9deade80cf33889187951792",LİDER HABER HD
+#EXTINF:-1 tvg-id="91b8402e9deade80cf33889187951792" tvg-logo="https://i.imgur.com/x5zV3k8.png" group-title="Turkiye 🇹🇷",LİDER HABER HD
 http://176.65.146.171:9981/stream/channelid/775993489?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="aae7f9835881052e72af9aae7a75d625",MELTEM TV
+#EXTINF:-1 tvg-id="aae7f9835881052e72af9aae7a75d625" tvg-logo="https://i.imgur.com/m5hF8v1.png" group-title="Turkiye 🇹🇷",MELTEM TV
 http://176.65.146.171:9981/stream/channelid/66709418?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="bce3a603b7393ab85ed7a1310b0b1f5f",minikaCOCUK
+#EXTINF:-1 tvg-id="bce3a603b7393ab85ed7a1310b0b1f5f" tvg-logo="https://i.imgur.com/j2qR6v9.png" group-title="Turkiye 🇹🇷",minikaCOCUK
 http://176.65.146.171:9981/stream/channelid/61268924?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="7c70781dd426acbfe3808408c288fac5",minikaGO
+#EXTINF:-1 tvg-id="7c70781dd426acbfe3808408c288fac5" tvg-logo="https://i.imgur.com/j2qR6v9.png" group-title="Turkiye 🇹🇷",minikaGO
 http://176.65.146.171:9981/stream/channelid/494432380?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="cd8c7ab1b9a7b67fa90cc5e75822046d",NOW HD
+#EXTINF:-1 tvg-id="cd8c7ab1b9a7b67fa90cc5e75822046d" tvg-logo="https://i.imgur.com/o7bN3x2.png" group-title="Turkiye 🇹🇷",NOW HD
 http://176.65.146.171:9981/stream/channelid/830115021?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="5054f03386174f631a5333324d6e035d",NR1 FM
+#EXTINF:-1 tvg-id="5054f03386174f631a5333324d6e035d" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",NR1 FM
 http://176.65.146.171:9981/stream/channelid/871388240?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f96a56b6cbb4a1f32b6112944e68cd61",NR1 TURK FM
+#EXTINF:-1 tvg-id="f96a56b6cbb4a1f32b6112944e68cd61" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",NR1 TURK FM
 http://176.65.146.171:9981/stream/channelid/911633145?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="513527e6430cbf86e3620482f38acb2d",NR1 TURK TV
+#EXTINF:-1 tvg-id="513527e6430cbf86e3620482f38acb2d" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",NR1 TURK TV
 http://176.65.146.171:9981/stream/channelid/1713845585?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="c8c6dc3c60ae3332497fabef94f712ef",NTV
+#EXTINF:-1 tvg-id="c8c6dc3c60ae3332497fabef94f712ef" tvg-logo="https://i.imgur.com/s6vF2n9.png" group-title="Turkiye 🇹🇷",NTV
 http://176.65.146.171:9981/stream/channelid/1021101768?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="a0ab0e5514ef141314c815edd510a7a6",NTV HD
+#EXTINF:-1 tvg-id="a0ab0e5514ef141314c815edd510a7a6" tvg-logo="https://i.imgur.com/s6vF2n9.png" group-title="Turkiye 🇹🇷",NTV HD
 http://176.65.146.171:9981/stream/channelid/1427024800?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="606d6eea3db838341d88a2428754ca74",NTV RADYO
+#EXTINF:-1 tvg-id="606d6eea3db838341d88a2428754ca74" tvg-logo="https://i.imgur.com/s6vF2n9.png" group-title="Turkiye 🇹🇷",NTV RADYO
 http://176.65.146.171:9981/stream/channelid/1785621856?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="db60659ce016f89d45a2bce505e5973e",ON4 TV
+#EXTINF:-1 tvg-id="db60659ce016f89d45a2bce505e5973e" tvg-logo="https://i.imgur.com/a4gN9k2.png" group-title="Turkiye 🇹🇷",ON4 TV
 http://176.65.146.171:9981/stream/channelid/476405979?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="840a4abddb1d032c64fefc88f1566290",ORDU ALTAS TV
+#EXTINF:-1 tvg-id="840a4abddb1d032c64fefc88f1566290" tvg-logo="https://i.imgur.com/m9vN4x3.png" group-title="Turkiye 🇹🇷",ORDU ALTAS TV
 http://176.65.146.171:9981/stream/channelid/1028262532?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="c7544692fe6166f0cddd91ec293f76bb",RADYO 7
+#EXTINF:-1 tvg-id="c7544692fe6166f0cddd91ec293f76bb" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",RADYO 7
 http://176.65.146.171:9981/stream/channelid/306599111?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="97e83da40acf24adb92177dc28da64d5",REHBER TV
+#EXTINF:-1 tvg-id="97e83da40acf24adb92177dc28da64d5" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",REHBER TV
 http://176.65.146.171:9981/stream/channelid/608037015?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="8f1b3ef9ab3854235523ca23d0c2035a",Sky Sport Austria 3
+#EXTINF:-1 tvg-id="8f1b3ef9ab3854235523ca23d0c2035a" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Austria 3
 http://176.65.146.171:9981/stream/channelid/2034113423?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="22bcb7c375a66049adc6263984498df8",Sky Sport Austria 4
+#EXTINF:-1 tvg-id="22bcb7c375a66049adc6263984498df8" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Austria 4
 http://176.65.146.171:9981/stream/channelid/1136114722?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="ca48d6a716b7b2a4dab7ee5589fdf3ee",Sky Sport Austria 5
+#EXTINF:-1 tvg-id="ca48d6a716b7b2a4dab7ee5589fdf3ee" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Austria 5
 http://176.65.146.171:9981/stream/channelid/668354762?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="3b3c54668919c6fc71719b8eb672d66b",Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="3b3c54668919c6fc71719b8eb672d66b" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Bundesliga 1
 http://176.65.146.171:9981/stream/channelid/1716796475?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="2a1dd00d75e784c2de6262c10e012dab",Sky Sport Bundesliga 2
+#EXTINF:-1 tvg-id="2a1dd00d75e784c2de6262c10e012dab" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Bundesliga 2
 http://176.65.146.171:9981/stream/channelid/231742762?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="66f4ee1f33d7f6ec561555a3375a2079",Sky Sport Bundesliga 6
+#EXTINF:-1 tvg-id="66f4ee1f33d7f6ec561555a3375a2079" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Bundesliga 6
 http://176.65.146.171:9981/stream/channelid/535753830?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="93b7d7a4f904c330bc2a0203f2953443",Sky Sport F1
+#EXTINF:-1 tvg-id="93b7d7a4f904c330bc2a0203f2953443" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport F1
 http://176.65.146.171:9981/stream/channelid/618117011?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="2906eb051b5854199fbb5b6c855b8f04",Sky Sport Mix
+#EXTINF:-1 tvg-id="2906eb051b5854199fbb5b6c855b8f04" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Mix
 http://176.65.146.171:9981/stream/channelid/99288617?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="95d946198ec07ee089837662a73a1982",Sky Sport Top Event
+#EXTINF:-1 tvg-id="95d946198ec07ee089837662a73a1982" tvg-logo="https://i.imgur.com/p2zS7o9.png" group-title="Turkiye 🇹🇷",Sky Sport Top Event
 http://176.65.146.171:9981/stream/channelid/424073621?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="6f67ae353b9453ab2968d618789a6955",SPORSMART 2
+#EXTINF:-1 tvg-id="6f67ae353b9453ab2968d618789a6955" tvg-logo="https://i.imgur.com/n1bV9x3.png" group-title="Turkiye 🇹🇷",SPORSMART 2
 http://176.65.146.171:9981/stream/channelid/900622191?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="569314767fccc1e25ac1bd53ea1c4e40",STAR TV
+#EXTINF:-1 tvg-id="569314767fccc1e25ac1bd53ea1c4e40" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",STAR TV
 http://176.65.146.171:9981/stream/channelid/1981059926?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="8cf38caaa75f7b127d4b0d0223eb89a4",STAR TV HD
+#EXTINF:-1 tvg-id="8cf38caaa75f7b127d4b0d0223eb89a4" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",STAR TV HD
 http://176.65.146.171:9981/stream/channelid/713880460?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="8061fe29e17bf0fabed3bf48acc8d449",SZC
+#EXTINF:-1 tvg-id="8061fe29e17bf0fabed3bf48acc8d449" tvg-logo="https://i.imgur.com/j9nM4x1.png" group-title="Turkiye 🇹🇷",SZC
 http://176.65.146.171:9981/stream/channelid/704536960?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="af7f43b4139d9208f36213b9a86228c7",T.A.Y TV
+#EXTINF:-1 tvg-id="af7f43b4139d9208f36213b9a86228c7" tvg-logo="https://i.imgur.com/m9vN4x3.png" group-title="Turkiye 🇹🇷",T.A.Y TV
 http://176.65.146.171:9981/stream/channelid/876838831?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="5ed1bb698629cb7defacc85d5d44c12d",TEK RUMELI TV
+#EXTINF:-1 tvg-id="5ed1bb698629cb7defacc85d5d44c12d" tvg-logo="https://i.imgur.com/m5hF8v1.png" group-title="Turkiye 🇹🇷",TEK RUMELI TV
 http://176.65.146.171:9981/stream/channelid/1773916510?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="3d5be0c7f07b543b17b78c4179992768",TEKNOFEST
+#EXTINF:-1 tvg-id="3d5be0c7f07b543b17b78c4179992768" tvg-logo="https://i.imgur.com/c4vM8x3.png" group-title="Turkiye 🇹🇷",TEKNOFEST
 http://176.65.146.171:9981/stream/channelid/1205885757?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0af964473f4410c88e2a3d107036e5ad",TGRT HABER HD
+#EXTINF:-1 tvg-id="0af964473f4410c88e2a3d107036e5ad" tvg-logo="https://i.imgur.com/x5zV3k8.png" group-title="Turkiye 🇹🇷",TGRT HABER HD
 http://176.65.146.171:9981/stream/channelid/1197799690?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="c6b2aa7138e80243ba5a2c95c240fccd",TH TURKHABER
+#EXTINF:-1 tvg-id="c6b2aa7138e80243ba5a2c95c240fccd" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TH TURKHABER
 http://176.65.146.171:9981/stream/channelid/1907012294?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="686fef2ab312ded383fa6ccdb0490a7d",TLC
+#EXTINF:-1 tvg-id="686fef2ab312ded383fa6ccdb0490a7d" tvg-logo="https://i.imgur.com/w9vM4x2.png" group-title="Turkiye 🇹🇷",TLC
 http://176.65.146.171:9981/stream/channelid/720334696?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="fb4916039722e0b3c30a44941cd36fb5",TLC HD
+#EXTINF:-1 tvg-id="fb4916039722e0b3c30a44941cd36fb5" tvg-logo="https://i.imgur.com/w9vM4x2.png" group-title="Turkiye 🇹🇷",TLC HD
 http://176.65.146.171:9981/stream/channelid/51792379?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="e297595018f8b2b99c77016bff354e93",TMB TV
+#EXTINF:-1 tvg-id="e297595018f8b2b99c77016bff354e93" tvg-logo="https://i.imgur.com/m5hF8v1.png" group-title="Turkiye 🇹🇷",TMB TV
 http://176.65.146.171:9981/stream/channelid/1348048866?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="52fbe80fdff7795c6c27f18109ce689d",TRT BELGESEL HD
+#EXTINF:-1 tvg-id="52fbe80fdff7795c6c27f18109ce689d" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT BELGESEL HD
 http://176.65.146.171:9981/stream/channelid/266926930?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="80b9bf49511a7df936a3cb817901c090",TRT BELGESEL HD
+#EXTINF:-1 tvg-id="80b9bf49511a7df936a3cb817901c090" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT BELGESEL HD
 http://176.65.146.171:9981/stream/channelid/1237301632?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="133230984b202877909fe52ff70342cc",TRT COCUK HD
+#EXTINF:-1 tvg-id="133230984b202877909fe52ff70342cc" tvg-logo="https://i.imgur.com/j2qR6v9.png" group-title="Turkiye 🇹🇷",TRT COCUK HD
 http://176.65.146.171:9981/stream/channelid/405811731?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="7c2243b87658e6c4c96c3dac98f2753d",TRT COCUK HD
+#EXTINF:-1 tvg-id="7c2243b87658e6c4c96c3dac98f2753d" tvg-logo="https://i.imgur.com/j2qR6v9.png" group-title="Turkiye 🇹🇷",TRT COCUK HD
 http://176.65.146.171:9981/stream/channelid/943923836?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="af26ed26025974eda2b4ef8b721ca13b",TRT DIYANET COCUK
+#EXTINF:-1 tvg-id="af26ed26025974eda2b4ef8b721ca13b" tvg-logo="https://i.imgur.com/j2qR6v9.png" group-title="Turkiye 🇹🇷",TRT DIYANET COCUK
 http://176.65.146.171:9981/stream/channelid/653076143?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="080f8999c0d51dd629904469b24ec094",TRT HABER HD
+#EXTINF:-1 tvg-id="080f8999c0d51dd629904469b24ec094" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT HABER HD
 http://176.65.146.171:9981/stream/channelid/428412680?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="899b1ee4750f18291e986435b923eeb0",TRT KURDI HD
+#EXTINF:-1 tvg-id="899b1ee4750f18291e986435b923eeb0" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT KURDI HD
 http://176.65.146.171:9981/stream/channelid/1679727497?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="b822e00d2bf4b416c327731146e0aa19",TRT MUZIK HD
+#EXTINF:-1 tvg-id="b822e00d2bf4b416c327731146e0aa19" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT MUZIK HD
 http://176.65.146.171:9981/stream/channelid/232792760?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="dd9db9b0fe4f7b6636ad5ccd732e9333",TRT MUZIK HD
+#EXTINF:-1 tvg-id="dd9db9b0fe4f7b6636ad5ccd732e9333" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT MUZIK HD
 http://176.65.146.171:9981/stream/channelid/817470941?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="7c96d1b1d1796f589c189b76d82c8e65",TRT SPOR HD
+#EXTINF:-1 tvg-id="7c96d1b1d1796f589c189b76d82c8e65" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT SPOR HD
 http://176.65.146.171:9981/stream/channelid/835819132?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f0b1b2d6ea41effb16bdc38cbaf6898d",TRT SPOR HD
+#EXTINF:-1 tvg-id="f0b1b2d6ea41effb16bdc38cbaf6898d" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT SPOR HD
 http://176.65.146.171:9981/stream/channelid/1454551536?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="fecdfc2c4bff8fe4fca993ec2bb85514",TRT TURK HD
+#EXTINF:-1 tvg-id="fecdfc2c4bff8fe4fca993ec2bb85514" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT TURK HD
 http://176.65.146.171:9981/stream/channelid/754765310?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="d29717a0e83135952e1d1c9d13999376",TRT WORLD HD
+#EXTINF:-1 tvg-id="d29717a0e83135952e1d1c9d13999376" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT WORLD HD
 http://176.65.146.171:9981/stream/channelid/538417106?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f3fee267f65cc82800f800cfe6d14522",TRT World Radio
+#EXTINF:-1 tvg-id="f3fee267f65cc82800f800cfe6d14522" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT World Radio
 http://176.65.146.171:9981/stream/channelid/1742929651?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="b4f0eea368251cf155264e19d4e99b86",TRT1 HD
+#EXTINF:-1 tvg-id="b4f0eea368251cf155264e19d4e99b86" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT1 HD
 http://176.65.146.171:9981/stream/channelid/602861748?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="5049fc3164e1b8c3144cf78032677d10",TRT1 HD
+#EXTINF:-1 tvg-id="5049fc3164e1b8c3144cf78032677d10" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",TRT1 HD
 http://176.65.146.171:9981/stream/channelid/838617424?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0580d7f99e4ed2b7c8501b78548b9137",TV 1
+#EXTINF:-1 tvg-id="0580d7f99e4ed2b7c8501b78548b9137" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TV 1
 http://176.65.146.171:9981/stream/channelid/2044166149?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="8d6eaf2e26e0108962e242a897029395",TV 100 HD
+#EXTINF:-1 tvg-id="8d6eaf2e26e0108962e242a897029395" tvg-logo="https://i.imgur.com/x5zV3k8.png" group-title="Turkiye 🇹🇷",TV 100 HD
 http://176.65.146.171:9981/stream/channelid/783249037?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="aea6f94aecdae1139075698d485c3313",TV 100 HD
+#EXTINF:-1 tvg-id="aea6f94aecdae1139075698d485c3313" tvg-logo="https://i.imgur.com/x5zV3k8.png" group-title="Turkiye 🇹🇷",TV 100 HD
 http://176.65.146.171:9981/stream/channelid/1257875118?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="b2ada7c7a62dfee737cf0b5da76a99bd",TV 52
+#EXTINF:-1 tvg-id="b2ada7c7a62dfee737cf0b5da76a99bd" tvg-logo="https://i.imgur.com/a4gN9k2.png" group-title="Turkiye 🇹🇷",TV 52
 http://176.65.146.171:9981/stream/channelid/1202171314?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="c6d619fd546e47db6998b99cec12c8d6",TV DEN
+#EXTINF:-1 tvg-id="c6d619fd546e47db6998b99cec12c8d6" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TV DEN
 http://176.65.146.171:9981/stream/channelid/2098845382?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="e0f750b2d3add349c02a8b23aaa3bc64",TV KAYSERI
+#EXTINF:-1 tvg-id="e0f750b2d3add349c02a8b23aaa3bc64" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TV KAYSERI
 http://176.65.146.171:9981/stream/channelid/844167136?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="7a40686b30d5f1a7b26ae9ac3e4627f7",TV2 HD
+#EXTINF:-1 tvg-id="7a40686b30d5f1a7b26ae9ac3e4627f7" tvg-logo="https://i.imgur.com/y8vF2k1.png" group-title="Turkiye 🇹🇷",TV2 HD
 http://176.65.146.171:9981/stream/channelid/1801994362?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="f90ac8a1c936dfb3fc759d71d17d98dc",TV264
+#EXTINF:-1 tvg-id="f90ac8a1c936dfb3fc759d71d17d98dc" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TV264
 http://176.65.146.171:9981/stream/channelid/566758137?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="46d700d73b087c1d0e04cf67d65f772e",TV42
+#EXTINF:-1 tvg-id="46d700d73b087c1d0e04cf67d65f772e" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TV42
 http://176.65.146.171:9981/stream/channelid/1459672902?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="24c2c17de32070c9aa044c92cf151ff2",TV5
+#EXTINF:-1 tvg-id="24c2c17de32070c9aa044c92cf151ff2" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TV5
 http://176.65.146.171:9981/stream/channelid/2109850148?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="583786d4478a960d716d6ad0f0ec0b85",TV8 5 HD
+#EXTINF:-1 tvg-id="583786d4478a960d716d6ad0f0ec0b85" tvg-logo="https://i.imgur.com/u7bM4k8.png" group-title="Turkiye 🇹🇷",TV8 5 HD
 http://176.65.146.171:9981/stream/channelid/1418082136?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="58907faaf4a686e5594e815e10ad7b27",TV8 HD
+#EXTINF:-1 tvg-id="58907faaf4a686e5594e815e10ad7b27" tvg-logo="https://i.imgur.com/u7bM4k8.png" group-title="Turkiye 🇹🇷",TV8 HD
 http://176.65.146.171:9981/stream/channelid/713003096?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="1a01bd2c0a90175d1704f53c3c3bf47a",ULUSAL 1 TV
+#EXTINF:-1 tvg-id="1a01bd2c0a90175d1704f53c3c3bf47a" tvg-logo="https://i.imgur.com/m5hF8v1.png" group-title="Turkiye 🇹🇷",ULUSAL 1 TV
 http://176.65.146.171:9981/stream/channelid/750584090?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="7b1afae628aa186ad23efb8a1bf66d3f",VAN TV
+#EXTINF:-1 tvg-id="7b1afae628aa186ad23efb8a1bf66d3f" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",VAN TV
 http://176.65.146.171:9981/stream/channelid/1727666811?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="446f409422e977d64ba6490d25c523ef",VAV TV
+#EXTINF:-1 tvg-id="446f409422e977d64ba6490d25c523ef" tvg-logo="https://i.imgur.com/x9nK3v1.png" group-title="Turkiye 🇹🇷",VAV TV
 http://176.65.146.171:9981/stream/channelid/339767108?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="9ea7d3a975980701e17b2321d760c865",YENİ KOCAELİ TV
+#EXTINF:-1 tvg-id="9ea7d3a975980701e17b2321d760c865" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",YENİ KOCAELİ TV
 http://176.65.146.171:9981/stream/channelid/701736862?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="27de17d73c545261644b954ab1c682ed",ZAROK TV
+#EXTINF:-1 tvg-id="27de17d73c545261644b954ab1c682ed" tvg-logo="https://i.imgur.com/z4bN9x2.png" group-title="Turkiye 🇹🇷",ZAROK TV
 http://176.65.146.171:9981/stream/channelid/1461181991?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="2369fe377bd2824fdfc56455e847d2ab",ÇOCUKSMART
+#EXTINF:-1 tvg-id="2369fe377bd2824fdfc56455e847d2ab" tvg-logo="https://i.imgur.com/j2qR6v9.png" group-title="Turkiye 🇹🇷",ÇOCUKSMART
 http://176.65.146.171:9981/stream/channelid/939419939?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="2ee33a9a632e0577aa823c5b22052ef7" tvg-chno="1",24 HD
+#EXTINF:-1 tvg-id="2ee33a9a632e0577aa823c5b22052ef7" tvg-chno="1" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",24 HD
 http://176.65.146.171:9981/stream/channelid/440066862?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="75ac6259fa13e16f1a2f2a5a912dcd94" tvg-chno="1",KANAL 7 HD
+#EXTINF:-1 tvg-id="75ac6259fa13e16f1a2f2a5a912dcd94" tvg-chno="1" tvg-logo="https://i.imgur.com/k9lP4w0.png" group-title="Turkiye 🇹🇷",KANAL 7 HD
 http://176.65.146.171:9981/stream/channelid/1499638901?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="ba0cf8a1b75d8f476649e2d4afb100a9" tvg-chno="1",SHOW HD
+#EXTINF:-1 tvg-id="ba0cf8a1b75d8f476649e2d4afb100a9" tvg-chno="1" tvg-logo="https://i.imgur.com/s4vM8x9.png" group-title="Turkiye 🇹🇷",SHOW HD
 http://176.65.146.171:9981/stream/channelid/569904314?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0e15a1e745b764ac07717583592b5b51" tvg-chno="1",ULKE TV HD
+#EXTINF:-1 tvg-id="0e15a1e745b764ac07717583592b5b51" tvg-chno="1" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",ULKE TV HD
 http://176.65.146.171:9981/stream/channelid/1738609934?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0b1bd06ad8bb733e77b7b7ec9ebc4589" tvg-chno="2",360 HD
+#EXTINF:-1 tvg-id="0b1bd06ad8bb733e77b7b7ec9ebc4589" tvg-chno="2" tvg-logo="https://i.imgur.com/a4gN9k2.png" group-title="Turkiye 🇹🇷",360 HD
 http://176.65.146.171:9981/stream/channelid/1792023307?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="0d2503c2f4da2fd87ae9d450b56bbe02" tvg-chno="2",HABERTURK HD
+#EXTINF:-1 tvg-id="0d2503c2f4da2fd87ae9d450b56bbe02" tvg-chno="2" tvg-logo="https://i.imgur.com/j8nF5v2.png" group-title="Turkiye 🇹🇷",HABERTURK HD
 http://176.65.146.171:9981/stream/channelid/1107502349?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="7b4ee8cef2371b81422dac4c566fd40c" tvg-chno="3",BLOOMBERGHT HD
+#EXTINF:-1 tvg-id="7b4ee8cef2371b81422dac4c566fd40c" tvg-chno="3" tvg-logo="https://i.imgur.com/i8kL3w9.png" group-title="Turkiye 🇹🇷",BLOOMBERGHT HD
 http://176.65.146.171:9981/stream/channelid/1323847291?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="15768fe9753d6e6378ad2a4939d7ba04" tvg-chno="3",TV 4 HD
+#EXTINF:-1 tvg-id="15768fe9753d6e6378ad2a4939d7ba04" tvg-chno="3" tvg-logo="https://i.imgur.com/v8bN2k9.png" group-title="Turkiye 🇹🇷",TV 4 HD
 http://176.65.146.171:9981/stream/channelid/1771009557?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="a766a948f80633aafa2bc2fc7603b00d" tvg-chno="4",SHOW MAX HD
+#EXTINF:-1 tvg-id="a766a948f80633aafa2bc2fc7603b00d" tvg-chno="4" tvg-logo="https://i.imgur.com/s4vM8x9.png" group-title="Turkiye 🇹🇷",SHOW MAX HD
 http://176.65.146.171:9981/stream/channelid/1219061415?profile=htsp
-#EXTINF:-1 group-title="Turkiye 🇹🇷" tvg-id="16960ad7b8c813b4d231aaff30073a76" tvg-chno="5",HABERTURK RADYO
+#EXTINF:-1 tvg-id="16960ad7b8c813b4d231aaff30073a76" tvg-chno="5" tvg-logo="https://i.imgur.com/j8nF5v2.png" group-title="Turkiye 🇹🇷",HABERTURK RADYO
 http://176.65.146.171:9981/stream/channelid/1460311574?profile=htsp
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
