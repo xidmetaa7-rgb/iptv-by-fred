@@ -6,7 +6,7 @@ https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 
-#EXTINF:-1 tvg-id="Kanal12.az" tvg-logo="https://i.imgur.com/VC7Q18V.png" group-title="AZERBAYCAN",Kanal 12
+#EXTINF:-1 tvg-id="Kanal12.az" tvg-logo="h" group-title="AZERBAYCAN",Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="AZERBAYCAN",Ictimai TV HD
@@ -45,34 +45,32 @@ https://str2.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/space-tv.m3u8
 
-#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://i.imgur.com/4l8qZfW.png" group-title="AZERBAYCAN",Xezer TV
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="AZERBAYCAN",Xezer TV
 https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://i.imgur.com/n6YwK6P.png" group-title="AZERBAYCAN",Real Tv
+#EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://azertag.az/files/2024/1/1200x630/17104901366551033420_1200x630.jpg" group-title="AZERBAYCAN",Real Tv
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="QafqazTV.az" tvg-logo="https://i.imgur.com/8zXlYqW.png" group-title="AZERBAYCAN",Qafqaz TV
+#EXTINF:-1 tvg-id="QafqazTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Qafqaz_TV_%282017-h.h.%29.png" group-title="AZERBAYCAN",Qafqaz TV
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="BiznesTV.az" tvg-logo="https://i.imgur.com/S9sJ1uK.png" group-title="AZERBAYCAN",BIZNES TV
+#EXTINF:-1 tvg-id="BiznesTV.az" tvg-logo="https://yodaplayer.yodacdn.net/biznestv/biznestv.png" group-title="AZERBAYCAN",BIZNES TV
 https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ElTV.az" tvg-logo="https://i.imgur.com/7bKjQ9w.png" group-title="AZERBAYCAN",EL TV
-https://live.eltv.az/live/eltv/chunklist_w698965280.m3u8
 
-#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-logo="https://i.imgur.com/3n4aK8L.png" group-title="AZERBAYCAN",Naxcivan TV
+#EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nax%C3%A7%C4%B1van_TV_%282025%29.png" group-title="AZERBAYCAN",Naxcivan TV
 https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="VostokTV.az" tvg-logo="https://i.imgur.com/qL0lJzV.png" group-title="AZERBAYCAN",Vostok TV
+#EXTINF:-1 tvg-id="VostokTV.az" tvg-logo="https://www.cableman.ru/sites/default/files/vostok.png" group-title="AZERBAYCAN",Vostok TV
 https://str.yodacdn.net/tmb/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="CBCAzerbaycan.az" tvg-logo="https://i.imgur.com/pZ6mD8a.png" group-title="AZERBAYCAN",CBC Azerbaycan TV
+#EXTINF:-1 tvg-id="CBCAzerbaycan.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" group-title="AZERBAYCAN",CBC Azerbaycan TV
 https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://i.imgur.com/w9vJtK2.png" group-title="AZERBAYCAN",Kepez TV
+#EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/120px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="AZERBAYCAN",Kepez TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
-#EXTINF:-1 tvg-id="KanalS.az" tvg-logo="https://i.imgur.com/uR2oJ0X.png" group-title="AZERBAYCAN",Kanal S
+#EXTINF:-1 tvg-id="KanalS.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kanal_S_loqosu_%282022%29.png/120px-Kanal_S_loqosu_%282022%29.png" group-title="AZERBAYCAN",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" ,Kanal D
