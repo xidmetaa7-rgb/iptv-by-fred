@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/az/azerbaijan.xml"
+#EXTM3U url-tvg="https://epg.one/epg.xml.gz
 
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN",APA Tv
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
