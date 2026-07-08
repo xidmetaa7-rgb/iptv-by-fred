@@ -96,9 +96,11 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=tq
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Россия 🇷🇺",ТНТ
 http://31.131.141.195:8000/play/2090/index.m3u8
 
-#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/18.png" group-title="Россия 🇷🇺",РЕН ТВ
-#EXTVLCOPT:http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer"
-http://46.32.64.39:10011
+#EXTINF:-1 group-title="Россия 🇷🇺",Рен ТВ
+http://85.25.46.88:8000/play/26/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iks-online.net/storage/2018/07/REN-TV-HD.png" group-title="Россия 🇷🇺",Рен ТВ Int.
+https://s70378.cdn.ngenix.net/ren_tv/2/index.m3u8
 
 #EXTINF:-1 tvg-id="perviy" tvg-logo="https://iptvx.one/picons/1tv.png" group-title="Россия 🇷🇺",Первый канал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
