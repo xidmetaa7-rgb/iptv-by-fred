@@ -354,165 +354,163 @@ https://edge06-alm.beetv.kz/bpk-token/3an@1ojyiuvoebdrgx2gu5spesqritwlcgcn1y5tau
 
 
 
-
-#EXTINF:-1 group-title="KINO+📺",viju+ Comedy HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/viju_comedy_ru.png" group-title="KINO+📺",viju+ Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
-#EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/viju_megahit_ru.png" group-title="KINO+📺",viju+ Megahit HD 
 http://185.46.16.239:8000/VIP_Megahit
-#EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/viju_premiere_ru.png" group-title="KINO+📺",viju+ Premiere HD
 http://185.46.16.239:8000/VIP_Premiere
-#EXTINF:-1 group-title="KINO+📺",Кинопремьера HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinopremiya_ru.png" group-title="KINO+📺",Кинопремьера HD
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",КиноПремьера HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinopremiya_ru.png" group-title="KINO+📺",КиноПремьера HD
 http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
-#EXTINF:-1 group-title="KINO+📺",КИНОХИТ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinohit_ru.png" group-title="KINO+📺",КИНОХИТ
 http://158.101.222.193:88/georgia_play.php?id=kinohit
-#EXTINF:-1 group-title="KINO+📺",Кинохит
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinohit_ru.png" group-title="KINO+📺",Кинохит
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinokomediya_ru.png" group-title="KINO+📺",КИНОКОМЕДИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="KINO+📺",kinomiks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinomiks_ru.png" group-title="KINO+📺",kinomiks
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="KINO+📺",Киномикс HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinomiks_ru.png" group-title="KINO+📺",Киномикс HD
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinosemya_ru.png" group-title="KINO+📺",КИНОСЕМЬЯ
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
-#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinoseriya_ru.png" group-title="KINO+📺",КИНОСЕРИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1 group-title="KINO+📺",КИНОСВИДАНИЕ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinosvidanie_ru.png" group-title="KINO+📺",КИНОСВИДАНИЕ
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:-1 group-title="KINO+📺",Мужское Кино
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/muzhskoe_kino_ru.png" group-title="KINO+📺",Мужское Кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 group-title="KINO+📺",МУЖСКОЕ КИНО
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/muzhskoe_kino_ru.png" group-title="KINO+📺",МУЖСКОЕ КИНО
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/v_kino_comedy_ru.png" group-title="KINO+📺",V Kino COMEDY
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju+ Comedy HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/viju_comedy_ru.png" group-title="KINO+📺",viju+ Comedy HD
 http://185.46.16.239:8000/VIP_Comedy
-#EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/viju_megahit_ru.png" group-title="KINO+📺",viju+ Megahit HD 
 http://185.46.16.239:8000/VIP_Megahit
-#EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/viju_premiere_ru.png" group-title="KINO+📺",viju+ Premiere HD
 http://185.46.16.239:8000/VIP_Premiere
-#EXTINF:-1 group-title="KINO+📺",VIP Premiere
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/viju_premiere_ru.png" group-title="KINO+📺",VIP Premiere
 http://93.84.105.184:443/vippremiere
-#EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tv1000_russkoe_kino_ru.png" group-title="KINO+📺",viju TV1000 R Kino
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="KINO+📺",TV1000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tv1000_ru.png" group-title="KINO+📺",TV1000
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",TV1000 ACTION HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tv1000_action_ru.png" group-title="KINO+📺",TV1000 ACTION HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju TV1000 action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tv1000_action_ru.png" group-title="KINO+📺",viju TV1000 action
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",viju TV1000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tv1000_action_ru.png" group-title="KINO+📺",viju TV1000 action
 http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+📺",viju TV1000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tv1000_ru.png" group-title="KINO+📺",viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+📺",FILM TV GROUP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",FILM TV GROUP
 http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺",Новосілки ТБ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",Новосілки ТБ
 http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",FILM TV Кінозал
 http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",Бровари Кіно TV
 https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",CherTV Заруба + KinoMix
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",KinoMix
 https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
-#EXTINF:-1 group-title="KINO+📺",Иллюзион+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/illuzion_plus_ru.png" group-title="KINO+📺",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
-#EXTINF:-1 group-title="KINO+📺",illuzion plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/illuzion_plus_ru.png" group-title="KINO+📺",illuzion plus
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 group-title="KINO+📺",Иллюзион plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/illuzion_plus_ru.png" group-title="KINO+📺",Иллюзион plus
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",24 техно
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/24_techno_ru.png" group-title="KINO+📺",24 техно
 http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="KINO+📺",eurokino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/eurokino_ru.png" group-title="KINO+📺",eurokino
 http://158.101.222.193:88/georgia_play.php?id=eurokino
-#EXTINF:-1 group-title="KINO+📺",Евро кино
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/eurokino_ru.png" group-title="KINO+📺",Евро кино
 http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
-#EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/eurokino_ru.png" group-title="KINO+📺",ЕВРОКИНО 
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Кино ТВ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kino_tv_ru.png" group-title="KINO+📺",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="KINO+📺",Kino TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kino_tv_ru.png" group-title="KINO+📺",Kino TV
 http://194.152.35.17/kino-tv/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",ТВ|21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tv_21_ru.png" group-title="KINO+📺",ТВ|21
 http://178.134.1.158:8081/TVXXI/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+📺",КИНОСАТ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinosat_ru.png" group-title="KINO+📺",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
-#EXTINF:-1 group-title="KINO+📺",Kineko
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kineko_ru.png" group-title="KINO+📺",Kineko
 http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
-#EXTINF:-1 group-title="KINO+📺",Видеокассета VHS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",Видеокассета VHS
 https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
-#EXTINF:-1 group-title="KINO+📺",K1HO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",K1HO
 https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="KINO+📺",KINOSTREAM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",KINOSTREAM
 https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="KINO+📺",ЗОВ ТВ Black
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",ЗОВ ТВ Black
 https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
-#EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/star_cinema_ru.png" group-title="KINO+📺",STAR CINEMA HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
-#EXTINF:-1 group-title="KINO+📺",CINEMA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",CINEMA
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",CINEMA sd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",CINEMA sd
 http://94.43.1.138:8081/cinema/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",Cinema
 http://194.152.35.17/cinema/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Film UA Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Hollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/hollywood_hd_ru.png" group-title="KINO+📺",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",hollywood
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/hollywood_hd_ru.png" group-title="KINO+📺",hollywood
 http://93.84.105.184:443/hollywoodsd
-#EXTINF:-1 group-title="KINO+📺",Hollywood HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/hollywood_hd_ru.png" group-title="KINO+📺",Hollywood HD
 http://46.32.176.50/HollywoodHD/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Hollywood hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/hollywood_hd_ru.png" group-title="KINO+📺",Hollywood hd
 http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+📺",Индийское Кино
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/indiyskoe_kino_ru.png" group-title="KINO+📺",Индийское Кино
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+📺",Индия
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/indiyskoe_kino_ru.png" group-title="KINO+📺",Индия
 http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
-#EXTINF:-1 group-title="KINO+📺",zeetv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/zeetv_ru.png" group-title="KINO+📺",zeetv
 http://158.101.222.193:88/georgia_play.php?id=zeetv
-#EXTINF:-1 group-title="KINO+📺",TvBoom-ViP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Bolt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/bolt_ru.png" group-title="KINO+📺",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 group-title="KINO+📺",Кино 1 International
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",A1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/amedia_1_ru.png" group-title="KINO+📺",A1 
 http://46.32.176.50/amedia1/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Amedia1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/amedia_1_ru.png" group-title="KINO+📺",Amedia1
 http://93.84.105.184:443/amediasd
-#EXTINF:-1 group-title="KINO+📺",amedia1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/amedia_1_ru.png" group-title="KINO+📺",amedia1
 http://158.101.222.193:88/georgia_play.php?id=amedia
-#EXTINF:-1 group-title="KINO+📺",A2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/amedia_2_ru.png" group-title="KINO+📺",A2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="KINO+📺",Amidia Hit HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/amedia_hit_ru.png" group-title="KINO+📺",Amidia Hit HD
 http://194.152.35.17/amedia-hit/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",Amedia Hit
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/amedia_hit_ru.png" group-title="KINO+📺",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1 group-title="KINO+📺",Amedia Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/amedia_premium_ru.png" group-title="KINO+📺",Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
-#EXTINF:-1 group-title="KINO+📺",Red
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/red_ru.png" group-title="KINO+📺",Red
 http://158.101.222.193:88/georgia_play.php?id=red
-#EXTINF:-1 group-title="KINO+📺",.sci-fi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",.sci-fi
 http://158.101.222.193:88/georgia_play.php?id=scifi
-#EXTINF:-1 group-title="KINO+📺",black
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/black_ru.png" group-title="KINO+📺",black
 http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="KINO+📺",КИНОУЖАС
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/kinoujas_ru.png" group-title="KINO+📺",КИНОУЖАС
 http://158.101.222.193:88/georgia_play.php?id=kinoujas
-#EXTINF:-1 group-title="KINO+📺",НСТ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/nst_ru.png" group-title="KINO+📺",НСТ
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
-#EXTINF:-1 group-title="KINO+📺",NST
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/nst_ru.png" group-title="KINO+📺",NST
 http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
-
-#EXTINF:-1 group-title="KINO+📺", Драйв
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/drive_tv_ru.png" group-title="KINO+📺", Драйв
 http://176.118.197.125/Draiv/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", Здоровое ТВ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/zdorovoe_tv_ru.png" group-title="KINO+📺", Здоровое ТВ
 http://176.118.197.125/Zdorovoe-TV/index.m3u8
-#EXTINF:-1 group-title="KINO+📺", 2x2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/2x2_ru.png" group-title="KINO+📺", 2x2
 http://176.118.197.101/2x2/index.m3u8
 
 
