@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.one/epg.xml.gz,https://iptv-content.webhop.net/guide.xml,https://www.teleguide.info/download/new3/xmltv.xml.gz,https://ottepg.ru/ottepg.xml.gz,https://stb.shara-tv.org/epg/epgtv.xml.gz,https://st.kineskop.tv/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.one/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN",APA Tv
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
