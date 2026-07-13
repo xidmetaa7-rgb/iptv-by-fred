@@ -1077,9 +1077,13 @@ http://176.65.146.171:9981/stream/channelid/1219061415?profile=htsp
 #EXTINF:-1 tvg-id="16960ad7b8c813b4d231aaff30073a76" tvg-chno="5" tvg-logo="https://i.imgur.com/j8nF5v2.png" group-title="Turkiye 🇹🇷",HABERTURK RADYO
 http://176.65.146.171:9981/stream/channelid/1460311574?profile=htsp
 
+#EXTINF:-1 group-title="Bulgaria ", AGRO TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
 
-
-
+#EXTINF:-1 group-title="Bulgaria ", City tv
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 group-title="Bulgaria ", TV 1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8
 
 
 
