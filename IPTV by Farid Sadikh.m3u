@@ -537,41 +537,42 @@ http://176.118.197.101/2x2/index.m3u8
 
 
 #EXTINF:-1  group-title="Turk Sport" tvg-id="BeinSports 1" ,Bein Sports 1
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8
+https://tzy.zirvedesin236.cfd/b1/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport"  tvg-id="BeinSports 2" ,Bein Sports 2
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+https://tzy.zirvedesin236.cfd/b2/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport"  tvg-id="BeinSports 3" ,Bein Sports 3
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+https://tzy.zirvedesin236.cfd/b3/mono.m3u8
+#EXTINF:-1 group-title="Turk Sport"  tvg-id="BeinSports 3" ,Bein Sports 4
+https://tzy.zirvedesin236.cfd/b4/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="BeinSports 5" ,Bein Sports 5
-https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+https://tzy.zirvedesin236.cfd/b5/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="BeinSports MAX" ,Bein Sports MAX 1
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 group-title="Turk Sport" tvg-id="S Sport" ,S Sport
-https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 group-title="Turk Sport" tvg-id="S Sport 2" ,S Sport 2
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivess2.m3u8
+https://tzy.zirvedesin236.cfd/bm1/mono.m3u8
+#EXTINF:-1 group-title="Turk Sport" tvg-id="BeinSports MAX" ,Bein Sports MAX 1
+https://tzy.zirvedesin236.cfd/bm2/mono.m3u8
+
 #EXTINF:-1 group-title="Turk Sport" tvg-id="Tivibu SPOR " ,Tivibu SPOR
 https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="Tivibu SPOR 1 " ,Tivibu SPOR 1
-https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
+https://tzy.zirvedesin236.cfd/t1/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="Tivibu SPOR 2 " ,Tivibu SPOR 2
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets2.m3u8
+https://tzy.zirvedesin236.cfd/t2/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="Tivibu SPOR 3 " ,Tivibu SPOR 3
-https://andro.2385437.xyz/checklist/androstreamlivets3.m3u8
+https://tzy.zirvedesin236.cfd/t3/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="Tivibu SPOR 4 " ,Tivibu SPOR 4
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivets4.m3u8
+https://tzy.zirvedesin236.cfd/t4/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="Smart Sport " ,Smart Sport 
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivesm1.m3u8
+https://tzy.zirvedesin236.cfd/smarts/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id="Smart Sport 2 " ,Smart Sport 2
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivesm2.m3u8
+https://tzy.zirvedesin236.cfd/sms2/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id=" Eurosport 1 " ,Eurosport 1
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivees1.m3u8
+https://tzy.zirvedesin236.cfd/eu1/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id=" Eurosport 2 " ,Eurosport 2
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivees2.m3u8
+https://tzy.zirvedesin236.cfd/eu2/mono.m3u8
 #EXTINF:-1 group-title="Turk Sport" tvg-id=" Tabii spor " ,Tabii Spor
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 group-title="Turk Sport" tvg-id=" Tabii spor 1" ,Tabii Spor 1
-https://andro.2385437.xyz/checklist/androstreamlivetb1.m3u8
+https://tzy.zirvedesin236.cfd/ex7/mono.m3u8
+
+
 
 #EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 1
 http://stream.mcquack.net/176/index.m3u8
