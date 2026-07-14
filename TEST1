@@ -1084,10 +1084,84 @@ https://restr2.bgtv.bg/agro/hls/agro.m3u8
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 group-title="Bulgaria ", TV 1
 https://tv1.cloudcdn.bg/temp/livestream.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Bulgaria ", BNT 1
+http://213.91.179.28:8000/play/a046
+#EXTINF:-1 group-title="Bulgaria ", BNT 2
+http://213.91.179.28:8000/play/a049
+#EXTINF:-1 group-title="Bulgaria ", BNT 3
+http://213.91.179.28:8000/play/a03x
+#EXTINF:-1 group-title="Bulgaria ", BNT 4
+http://213.91.179.28:8000/play/a04u
+#EXTINF:-1 group-title="Bulgaria ", BTV
+http://213.91.179.28:8000/play/a03w
+#EXTINF:-1 group-title="Bulgaria ", Nova
+http://213.91.179.28:8000/play/a03l
+#EXTINF:-1 group-title="Bulgaria ", TV Zagora
+http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 group-title="Bulgaria ", Disney Channel Bulgaria 
+http://213.91.179.28:8000/play/a059
+#EXTINF:-1 group-title="Bulgaria ", Nickelodeon Bulgaria
+http://213.91.179.28:8000/play/a056
+#EXTINF:-1 group-title="Bulgaria ", RING
+http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 group-title="Bulgaria ", BTV CINEMA
+http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 group-title="Bulgaria ", BTV Action
+http://213.91.179.28:8000/play/a04n
+#EXTINF:-1 group-title="Bulgaria ", BTV Lady
+http://213.91.179.28:8000/play/a05i
+#EXTINF:-1 group-title="Bulgaria ", Kino Nova
+http://213.91.179.28:8000/play/a041
+#EXTINF:-1 group-title="Bulgaria ", Star Channel
+http://213.91.179.28:8000/play/a0c9
+#EXTINF:-1 group-title="Bulgaria ", Arena Life
+http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 group-title="Bulgaria ", Diema
+http://213.91.179.28:8000/play/a045
+#EXTINF:-1 group-title="Bulgaria ", Euronews Bulgaria
+http://213.91.179.28:8000/play/a05e
+#EXTINF:-1 group-title="Bulgaria ", Nova news
+http://213.91.179.28:8000/play/a063
+#EXTINF:-1 group-title="Bulgaria ", Bulgaria On Air
+http://213.91.179.28:8000/play/a05x
+#EXTINF:-1 group-title="Bulgaria ", Hit Mix
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1 group-title="Bulgaria ", BOX Tv
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1 group-title="Bulgaria ", Magic TV
+https://bss1.neterra.tv/magictv/stream_1.m3u8
+#EXTINF:-1 group-title="Bulgaria ", STAR Crime
+http://213.91.179.28:8000/play/a0cs
+#EXTINF:-1 group-title="Bulgaria ", STAR Life
+http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 group-title="Bulgaria ", Max Sport HD
+http://77.46.130.252:99/maxsport1
+#EXTINF:-1 group-title="Bulgaria ", Max Sport  2HD
+http://77.46.130.252:99/maxsport2
+#EXTINF:-1 group-title="Bulgaria ", Max Sport  3HD
+http://77.46.130.252:99/maxsport3
+#EXTINF:-1 group-title="Bulgaria ", Max Sport  4 HD
+http://213.91.179.28:8000/play/a05n
+#EXTINF:-1 group-title="Bulgaria ",Travel Tv
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
+#EXTINF:-1 group-title="Bulgaria ", 100 AUTOMOTO
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Bulgaria ", Bloomberg Bulgaria 
+http://213.91.179.28:8000/play/a04m
+#EXTINF:-1 group-title="Bulgaria ", Nostalgia
+http://213.91.179.28:8000/play/a03q
+#EXTINF:-1 group-title="Bulgaria ", BTV Comedy
+http://213.91.179.28:8000/play/a04k
+#EXTINF:-1 group-title="Bulgaria ", H2
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 group-title="Bulgaria ", National Geographic Bulgaria 
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 group-title="Bulgaria ", Nat Geo Wild 
+http://213.91.179.28:8000/play/a0cu
+#EXTINF:-1 group-title="Bulgaria ", History
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 group-title="Bulgaria ", This is bulgaria 
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
 
 
