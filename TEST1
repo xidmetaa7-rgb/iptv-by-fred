@@ -70,6 +70,12 @@ https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/120px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="AZERBAYCAN",Kepez TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
+#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="AZERBAYCAN",Azerbaijan Gharbi
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="AZERBAYCAN",Azstar TV HD (1080p)
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KanalS.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kanal_S_loqosu_%282022%29.png/120px-Kanal_S_loqosu_%282022%29.png" group-title="AZERBAYCAN",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
