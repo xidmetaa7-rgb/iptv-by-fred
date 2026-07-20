@@ -529,551 +529,635 @@ http://177.234.249.135:8888/RT/index.m3u8](https://www.google.com/search?q=http:
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Россия 🇷🇺 Часть 2",RT en Espanol (1080p)[cite: 1]
 http://179.60.51.134:8888/RT/index.m3u8](https://www.google.com/search?q=http://179.60.51.134:8888/RT/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Россия 🇷🇺 Часть 2",RT en Espanol (720p)[cite: 1]
-[https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8](https://www.google.com/search?q=https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8)[cite: 1]
+https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8](https://www.google.com/search?q=https://live-evg10.tv360.bitel.com.pe/bitel/rt/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Россия 🇷🇺 Часть 2",RT en Espanol (576p)[cite: 1]
-[https://streaming.thestream.cyou/live/46.m3u8](https://www.google.com/search?q=https://streaming.thestream.cyou/live/46.m3u8)[cite: 1]
+https://streaming.thestream.cyou/live/46.m3u8](https://www.google.com/search?q=https://streaming.thestream.cyou/live/46.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" group-title="Россия 🇷🇺 Часть 2",RT en Espanol (576p)[cite: 1]
-[https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8](https://www.google.com/search?q=https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8)[cite: 1]
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8](https://www.google.com/search?q=https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RT.ru@HD" group-title="Россия 🇷🇺 Часть 2",RT HD (1080p)[cite: 1]
-[http://31.148.48.15/RT_HD/index.m3u8](https://www.google.com/search?q=http://31.148.48.15/RT_HD/index.m3u8)[cite: 1]
+http://31.148.48.15/RT_HD/index.m3u8](https://www.google.com/search?q=http://31.148.48.15/RT_HD/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RT.ru@HD" group-title="Россия 🇷🇺 Часть 2",RT HD (1080p)[cite: 1]
-[https://wisewatchoott.wiseplayout.com/RT/master.m3u8](https://www.google.com/search?q=https://wisewatchoott.wiseplayout.com/RT/master.m3u8)[cite: 1]
+https://wisewatchoott.wiseplayout.com/RT/master.m3u8](https://www.google.com/search?q=https://wisewatchoott.wiseplayout.com/RT/master.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RTGint.ru@SD" group-title="Россия 🇷🇺 Часть 2",RTG int.[cite: 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3[cite: 1]
-[http://213.91.179.28:8000/play/a0bw](https://www.google.com/search?q=http://213.91.179.28:8000/play/a0bw)[cite: 1]
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3[cite: 1]
+http://213.91.179.28:8000/play/a0bw](https://www.google.com/search?q=http://213.91.179.28:8000/play/a0bw)[cite: 1]
 #EXTINF:-1 tvg-id="RTVi.ru@SD" group-title="Россия 🇷🇺 Часть 2",RTVi (450p) [Geo-blocked][cite: 1]
-[https://s70378.cdn.ngenix.net/rtvi/index.m3u8](https://www.google.com/search?q=https://s70378.cdn.ngenix.net/rtvi/index.m3u8)[cite: 1]
+https://s70378.cdn.ngenix.net/rtvi/index.m3u8](https://www.google.com/search?q=https://s70378.cdn.ngenix.net/rtvi/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RTViFTA.ru@SD" group-title="Россия 🇷🇺 Часть 2",RTVi FTA[cite: 1]
-[http://91.146.94.234:10001/play/a090](https://www.google.com/search?q=http://91.146.94.234:10001/play/a090)[cite: 1]
+http://91.146.94.234:10001/play/a090](https://www.google.com/search?q=http://91.146.94.234:10001/play/a090)[cite: 1]
 #EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",RU.TV (1080p)[cite: 1]
-[https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https](https://www.google.com/search?q=https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8%3Fe%3D2069285076%26s%3Dd-E-bxKy2v3EEJ94RQX9CA%26scheme%3Dhttps)[cite: 1]
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https](https://www.google.com/search?q=https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8%3Fe%3D2069285076%26s%3Dd-E-bxKy2v3EEJ94RQX9CA%26scheme%3Dhttps)[cite: 1]
 #EXTINF:-1 tvg-id="RUTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",RU.TV[cite: 1]
-[https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8)[cite: 1]
+https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RUTVKids.ru@SD" group-title="Россия 🇷🇺 Часть 2",RU.TV Kids (720p)[cite: 1]
-[https://rutvkids.ru/live/efir/index.m3u8](https://www.google.com/search?q=https://rutvkids.ru/live/efir/index.m3u8)[cite: 1]
+https://rutvkids.ru/live/efir/index.m3u8](https://www.google.com/search?q=https://rutvkids.ru/live/efir/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-1 (576p)[cite: 1]
-[http://41.223.30.230/RUSSIA1/index.m3u8](https://www.google.com/search?q=http://41.223.30.230/RUSSIA1/index.m3u8)[cite: 1]
+http://41.223.30.230/RUSSIA1/index.m3u8](https://www.google.com/search?q=http://41.223.30.230/RUSSIA1/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-1[cite: 1]
-[https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8)[cite: 1]
+https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia1.ru@HD" group-title="Россия 🇷🇺 Часть 2",Russia-1 HD (1080p)[cite: 1]
-[https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-1 SD (576p)[cite: 1]
-[http://109.207.243.18/2/index.m3u8](https://www.google.com/search?q=http://109.207.243.18/2/index.m3u8)[cite: 1]
+http://109.207.243.18/2/index.m3u8](https://www.google.com/search?q=http://109.207.243.18/2/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-24 (1080p)[cite: 1]
-[http://41.223.30.230/ROSSIYA24/index.m3u8](https://www.google.com/search?q=http://41.223.30.230/ROSSIYA24/index.m3u8)[cite: 1]
+http://41.223.30.230/ROSSIYA24/index.m3u8](https://www.google.com/search?q=http://41.223.30.230/ROSSIYA24/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-24 (720p)[cite: 1]
-[https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/russia24nl_smotrim/playlist_5.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-24 (576p)[cite: 1]
-[http://94.230.129.31:8080/Rossia_24/index.m3u8](https://www.google.com/search?q=http://94.230.129.31:8080/Rossia_24/index.m3u8)[cite: 1]
+http://94.230.129.31:8080/Rossia_24/index.m3u8](https://www.google.com/search?q=http://94.230.129.31:8080/Rossia_24/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-24[cite: 1]
-[https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8)[cite: 1]
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia24.ru@HD" group-title="Россия 🇷🇺 Часть 2",Russia-24 HD (1080p)[cite: 1]
-[http://77.232.131.211/Rossiya24/index.m3u8](https://www.google.com/search?q=http://77.232.131.211/Rossiya24/index.m3u8)[cite: 1]
+http://77.232.131.211/Rossiya24/index.m3u8](https://www.google.com/search?q=http://77.232.131.211/Rossiya24/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russia24.ru@HD" group-title="Россия 🇷🇺 Часть 2",Russia-24 HD (1080p)[cite: 1]
-[https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8](https://www.google.com/search?q=https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8)[cite: 1]
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8](https://www.google.com/search?q=https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-K (1080p)[cite: 1]
-[https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="RussiaK.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russia-K (576p)[cite: 1]
-[http://94.230.129.31:8080/Rossia_K/index.m3u8](https://www.google.com/search?q=http://94.230.129.31:8080/Rossia_K/index.m3u8)[cite: 1]
+http://94.230.129.31:8080/Rossia_K/index.m3u8](https://www.google.com/search?q=http://94.230.129.31:8080/Rossia_K/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russkiy roman (576p)[cite: 1]
-[https://vod.tuva.ru/rusroman/index.m3u8](https://www.google.com/search?q=https://vod.tuva.ru/rusroman/index.m3u8)[cite: 1]
+https://vod.tuva.ru/rusroman/index.m3u8](https://www.google.com/search?q=https://vod.tuva.ru/rusroman/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Ryzhiy.ru@SD" group-title="Россия 🇷🇺 Часть 2",Ryzhiy (576i)[cite: 1]
-[https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8)[cite: 1]
+https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Saphire.ru@SD" group-title="Россия 🇷🇺 Часть 2",Saphire (1080p)[cite: 1]
-[http://77.232.131.211/Sapfir/manifest.m3u8](https://www.google.com/search?q=http://77.232.131.211/Sapfir/manifest.m3u8)[cite: 1]
+http://77.232.131.211/Sapfir/manifest.m3u8](https://www.google.com/search?q=http://77.232.131.211/Sapfir/manifest.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Shanson TV (576p)[cite: 1]
-[http://catchup.videoline.ru/shanson/index.m3u8](https://www.google.com/search?q=http://catchup.videoline.ru/shanson/index.m3u8)[cite: 1]
+http://catchup.videoline.ru/shanson/index.m3u8](https://www.google.com/search?q=http://catchup.videoline.ru/shanson/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Shanson TV (576p)[cite: 1]
-[http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8)[cite: 1]
+http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Shef.ru@SD" group-title="Россия 🇷🇺 Часть 2",Shef (1080p)[cite: 1]
-[https://cdn-dvr.ntv.ru/Shef/index.m3u8](https://www.google.com/search?q=https://cdn-dvr.ntv.ru/Shef/index.m3u8)[cite: 1]
+https://cdn-dvr.ntv.ru/Shef/index.m3u8](https://www.google.com/search?q=https://cdn-dvr.ntv.ru/Shef/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="ShoppingLive.ru@SD" group-title="Россия 🇷🇺 Часть 2",Shopping Live (720p)[cite: 1]
-[https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8](https://www.google.com/search?q=https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8)[cite: 1]
+https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8](https://www.google.com/search?q=https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="ShoppingLive.ru@SD" group-title="Россия 🇷🇺 Часть 2",Shopping Live (576p) [Not 24/7][cite: 1]
-[http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8](https://www.google.com/search?q=http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8)[cite: 1]
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8](https://www.google.com/search?q=http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="ShotTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Shot TV (576p)[cite: 1]
-[http://hls127.freeott.top:8080/SHOT_TV/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/SHOT_TV/video.m3u8)[cite: 1]
+http://hls127.freeott.top:8080/SHOT_TV/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/SHOT_TV/video.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" group-title="Россия 🇷🇺 Часть 2",Skoraya pomoshch (1080p)[cite: 1]
-[https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8](https://www.google.com/search?q=https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8)[cite: 1]
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8](https://www.google.com/search?q=https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Smile TV (720p)[cite: 1]
-[https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8](https://www.google.com/search?q=https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8)[cite: 1]
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8](https://www.google.com/search?q=https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD" group-title="Россия 🇷🇺 Часть 2",Smotrim 100% Detskoe (720p)[cite: 1]
-[https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD" group-title="Россия 🇷🇺 Часть 2",Smotrim 100% Fakty (720p)[cite: 1]
-[https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD" group-title="Россия 🇷🇺 Часть 2",Smotrim 100% Klassika (720p)[cite: 1]
-[https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" group-title="Россия 🇷🇺 Часть 2",Smotrim 100% Lyubov (720p)[cite: 1]
-[https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" group-title="Россия 🇷🇺 Часть 2",Smotrim 100% Muzhskoe (720p)[cite: 1]
-[https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD" group-title="Россия 🇷🇺 Часть 2",Smotrim 100% Prazdnik (720p)[cite: 1]
-[https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="SochiLive.ru@HD" group-title="Россия 🇷🇺 Часть 2",Sochi Live HD (720p) [Not 24/7][cite: 1]
-[http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8](https://www.google.com/search?q=http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8)[cite: 1]
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8](https://www.google.com/search?q=http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Россия 🇷🇺 Часть 2",Solnce (576p)[cite: 1]
-[http://31.148.48.15/Solnce/index.m3u8](https://www.google.com/search?q=http://31.148.48.15/Solnce/index.m3u8)[cite: 1]
+http://31.148.48.15/Solnce/index.m3u8](https://www.google.com/search?q=http://31.148.48.15/Solnce/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Россия 🇷🇺 Часть 2",Solnce (576p)[cite: 1]
-[http://46.32.176.50/solnce/index.m3u8](https://www.google.com/search?q=http://46.32.176.50/solnce/index.m3u8)[cite: 1]
+http://46.32.176.50/solnce/index.m3u8](https://www.google.com/search?q=http://46.32.176.50/solnce/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Россия 🇷🇺 Часть 2",Solnce (576p)[cite: 1]
-[http://217.114.191.150/Solnce/index.m3u8](https://www.google.com/search?q=http://217.114.191.150/Solnce/index.m3u8)[cite: 1]
+http://217.114.191.150/Solnce/index.m3u8](https://www.google.com/search?q=http://217.114.191.150/Solnce/index.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Россия 🇷🇺 Часть 2",Solnce (576p)[cite: 1]
-[https://tv.mediacdn.ru/live/solntse/playlist.m3u8](https://www.google.com/search?q=https://tv.mediacdn.ru/live/solntse/playlist.m3u8)[cite: 1]
+https://tv.mediacdn.ru/live/solntse/playlist.m3u8](https://www.google.com/search?q=https://tv.mediacdn.ru/live/solntse/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="SolovyovLive.ru@SD" group-title="Россия 🇷🇺 Часть 2",Solovyov Live (1080p)[cite: 1]
-[https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8)[cite: 1]
+https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="SONGTVRussia.ru@SD" group-title="Россия 🇷🇺 Часть 2",SONGTV Russia[cite: 1]
-[https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8](https://www.google.com/search?q=https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8)[cite: 1]
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8](https://www.google.com/search?q=https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8)[cite: 1]
 #EXTINF:-1 tvg-id="Soyuzny.ru@SD" group-title="Россия 🇷🇺 Часть 2",Soyuzny (480p)[cite: 1]
-[http://178.124.179.122:8080/TRO/index.m3u8](https://www.google.com/search?q=http://178.124.179.122:8080/TRO/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Spas.ru@SD" group-title="Россия 🇷🇺 Часть 2",Spas (576p)[cite: 1]
-[http://94.230.129.31:8080/SPAS/index.m3u8](https://www.google.com/search?q=http://94.230.129.31:8080/SPAS/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Spas.ru@SD" group-title="Россия 🇷🇺 Часть 2",Spas (576p)[cite: 1]
-[http://hls127.freeott.top:8080/Spas/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/Spas/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Spas.ru@SD" group-title="Россия 🇷🇺 Часть 2",Spas (576p)[cite: 1]
-[https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8](https://www.google.com/search?q=https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Sportivnyy.ru@SD" group-title="Россия 🇷🇺 Часть 2",Sportivnyy (1080p)[cite: 1]
-[https://live-3.otcnet.ru/sportivny/index.m3u8](https://www.google.com/search?q=https://live-3.otcnet.ru/sportivny/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="StarCinema.ru@SD" group-title="Россия 🇷🇺 Часть 2",Star Cinema[cite: 1]
-[https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8](https://www.google.com/search?q=https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="StarFamily.ru@SD" group-title="Россия 🇷🇺 Часть 2",Star Family (1080p)[cite: 1]
-[https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8](https://www.google.com/search?q=https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STS.ru@Plus2" group-title="Россия 🇷🇺 Часть 2",STS (576p)[cite: 1]
-[http://94.230.128.107:8080/CTC/index.m3u8](https://www.google.com/search?q=http://94.230.128.107:8080/CTC/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Россия 🇷🇺 Часть 2",STS (576p)[cite: 1]
-[http://tshift-1.telecoma.tv/sts/index.m3u8](https://www.google.com/search?q=http://tshift-1.telecoma.tv/sts/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STSInternational.ru@SD" group-title="Россия 🇷🇺 Часть 2",STS International (576p)[cite: 1]
-[http://178.134.1.158:8081/CTC/index.m3u8](https://www.google.com/search?q=http://178.134.1.158:8081/CTC/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STSkids.ru@SD" group-title="Россия 🇷🇺 Часть 2",STS kids (1080p)[cite: 1]
-[http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ctc-kids-hd.m3u8](https://www.google.com/search?q=http://de.russkoe-iptv.com:88/s/s-e3dc39e0/ctc-kids-hd.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STSkids.ru@SD" group-title="Россия 🇷🇺 Часть 2",STS kids (576p)[cite: 1]
-[http://hls127.freeott.top:8080/STS_Kids/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/STS_Kids/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="Россия 🇷🇺 Часть 2",STS Love (576p)[cite: 1]
-[http://hls127.freeott.top:8080/CTC-LOVE/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/CTC-LOVE/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Subbota.ru@SD" group-title="Россия 🇷🇺 Часть 2",Subbota! (1080p)[cite: 1]
-[https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https](https://www.google.com/search?q=https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8%3Fe%3D2066519758%26s%3DdmUf6BUQzDBTwtQOseAfog%26scheme%3Dhttps)[cite: 1]
-#EXTINF:-1 tvg-id="Subbota.ru@SD" group-title="Россия 🇷🇺 Часть 2",Subbota! (576p)[cite: 1]
-[http://217.114.191.150/Subbota/index.m3u8](https://www.google.com/search?q=http://217.114.191.150/Subbota/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Subbota.ru@SD" group-title="Россия 🇷🇺 Часть 2",Subbota![cite: 1]
-[https://salam-us-iptp-81.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/T6nw_8_LQ9dpZWB3Bsr0rA/stream/genetta-412.ntv.rutube.ru/sw3PenmSgHBeW3HdSH_dRw/1782835534/310744c10a5809da38aa445c952976da/1080p_stream.m3u8](https://www.google.com/search?q=https://salam-us-iptp-81.rtbcdn.ru/dive/river-6-604.rtbcdn.ru/T6nw_8_LQ9dpZWB3Bsr0rA/stream/genetta-412.ntv.rutube.ru/sw3PenmSgHBeW3HdSH_dRw/1782835534/310744c10a5809da38aa445c952976da/1080p_stream.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Subbota.ru@SD" group-title="Россия 🇷🇺 Часть 2",Subbota! SD (576p)[cite: 1]
-[http://46.32.176.50/subbota/index.m3u8](https://www.google.com/search?q=http://46.32.176.50/subbota/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="SuperGeroi.ru@SD" group-title="Россия 🇷🇺 Часть 2",SuperGeroi (1080p)[cite: 1]
-[http://31.148.48.15/Malish_TV/index.m3u8](https://www.google.com/search?q=http://31.148.48.15/Malish_TV/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="SuperGeroi.ru@SD" group-title="Россия 🇷🇺 Часть 2",SuperGeroi (576p)[cite: 1]
-[http://109.94.1.3:8080/132/index.m3u8](https://www.google.com/search?q=http://109.94.1.3:8080/132/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="T24.ru@SD" group-title="Россия 🇷🇺 Часть 2",T24 (576p)[cite: 1]
-[http://178.134.1.158:8081/t24/index.m3u8](https://www.google.com/search?q=http://178.134.1.158:8081/t24/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="T24.ru@SD" group-title="Россия 🇷🇺 Часть 2",T24[cite: 1]
-[https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Teatr.ru@SD" group-title="Россия 🇷🇺 Часть 2",Teatr (576p)[cite: 1]
-[http://hls127.freeott.top:8080/Teatr/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/Teatr/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="Россия 🇷🇺 Часть 2",Telecafe (1080p)[cite: 1]
-[https://tchaikovsky.af-stream.com:991/s/xzztutfc/telekafe-hd/video.m3u8](https://www.google.com/search?q=https://tchaikovsky.af-stream.com:991/s/xzztutfc/telekafe-hd/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" group-title="Россия 🇷🇺 Часть 2",Telecafe[cite: 1]
-[https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Россия 🇷🇺 Часть 2",TiJi (576p)[cite: 1]
-[https://live-3.otcnet.ru/Tiji/index.m3u8](https://www.google.com/search?q=https://live-3.otcnet.ru/Tiji/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TiJi.ru@SD" group-title="Россия 🇷🇺 Часть 2",TiJi (576p)[cite: 1]
-[https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TipTop.ru@SD" group-title="Россия 🇷🇺 Часть 2",TipTop (1080p)[cite: 1]
-[http://de.russkoe-iptv.com:88/s/s-e3dc39e0/tip-top-hd.m3u8](https://www.google.com/search?q=http://de.russkoe-iptv.com:88/s/s-e3dc39e0/tip-top-hd.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TNT.ru@SD" group-title="Россия 🇷🇺 Часть 2",TNT (576p)[cite: 1]
-[http://94.230.129.31:8080/THT/index.m3u8](https://www.google.com/search?q=http://94.230.129.31:8080/THT/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TNVPlanet.ru@SD" group-title="Россия 🇷🇺 Часть 2",TNV-Planet[cite: 1]
-[https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TNVTatarstan.ru@SD" group-title="Россия 🇷🇺 Часть 2",TNV-Tatarstan (720p)[cite: 1]
-[https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8](https://www.google.com/search?q=https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Tooku.ru@SD" group-title="Россия 🇷🇺 Часть 2",Tooku (1080p)[cite: 1]
-[http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8](https://www.google.com/search?q=http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TopSecret.ru@SD" group-title="Россия 🇷🇺 Часть 2",Top Secret (576p)[cite: 1]
-[http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TsargradTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Tsargrad TV (1080p) [Geo-blocked][cite: 1]
-[https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https](https://www.google.com/search?q=https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8%3Fe%3D2070278263%26s%3Dis_mLq_kjPYLsOJ4qj85tw%26scheme%3Dhttps)[cite: 1]
-#EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" group-title="Россия 🇷🇺 Часть 2",TV1000 Russian Kino Global[cite: 1]
-[http://213.91.179.28:8000/play/a0bx](https://www.google.com/search?q=http://213.91.179.28:8000/play/a0bx)[cite: 1]
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Россия 🇷🇺 Часть 2",TV Centr (576p)[cite: 1]
-[http://hls127.freeott.top:8080/Tv_Center/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/Tv_Center/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Россия 🇷🇺 Часть 2",TV Centr SD (576p)[cite: 1]
-[http://185.71.81.6:8080/10/index.m3u8](https://www.google.com/search?q=http://185.71.81.6:8080/10/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TVPRO.ru@SD" group-title="Россия 🇷🇺 Часть 2",TV PRO[cite: 1]
-[http://rtmp.tvpro-online.ru/hls/ch1.m3u8](https://www.google.com/search?q=http://rtmp.tvpro-online.ru/hls/ch1.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TV3.ru@SD" group-title="Россия 🇷🇺 Часть 2",TV-3 (576p)[cite: 1]
-[http://94.230.129.31:8080/TB3/index.m3u8](https://www.google.com/search?q=http://94.230.129.31:8080/TB3/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TV3.ru@Belarus" group-title="Россия 🇷🇺 Часть 2",TV-3 (576p)[cite: 1]
-[http://178.124.179.122:8080/TB-3/index.m3u8](https://www.google.com/search?q=http://178.124.179.122:8080/TB-3/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="U.ru@SD" group-title="Россия 🇷🇺 Часть 2",U (720p)[cite: 1]
-[https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https](https://www.google.com/search?q=https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8%3Fe%3D2066519758%26s%3D9cPc1rCGu6M932eqrifRhQ%26scheme%3Dhttps)[cite: 1]
-#EXTINF:-1 tvg-id="U.ru@SD" group-title="Россия 🇷🇺 Часть 2",U (576p)[cite: 1]
-[http://178.134.1.158:8081/U/index.m3u8](https://www.google.com/search?q=http://178.134.1.158:8081/U/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="UDAR.ru@SD" group-title="Россия 🇷🇺 Часть 2",UDAR (1080p)[cite: 1]
-[http://5.188.159.128:8070/udar/index.m3u8](https://www.google.com/search?q=http://5.188.159.128:8070/udar/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Unikum.ru@SD" group-title="Россия 🇷🇺 Часть 2",Unikum[cite: 1]
-[https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="UniverTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Univer TV (1080p) [Not 24/7][cite: 1]
-[https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8](https://www.google.com/search?q=https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="UniverTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Univer TV (1080p)[cite: 1]
-[https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8](https://www.google.com/search?q=https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Usadba.ru@SD" group-title="Россия 🇷🇺 Часть 2",Usadba (1080p)[cite: 1]
-[http://de.russkoe-iptv.com:88/s/s-e3dc39e0/usadba-hd.m3u8](https://www.google.com/search?q=http://de.russkoe-iptv.com:88/s/s-e3dc39e0/usadba-hd.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru@SD" group-title="Россия 🇷🇺 Часть 2",V gostyakh u skazki (1080p)[cite: 1]
-[http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8](https://www.google.com/search?q=http://de.russkoe-iptv.com:88/s/s-e3dc39e0/gosti-skazka-hd.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="vijuHistory.ru@SD" group-title="Россия 🇷🇺 Часть 2",viju History (576p)[cite: 1]
-[http://178.124.179.122:8080/HistoryHD/index.m3u8](https://www.google.com/search?q=http://178.124.179.122:8080/HistoryHD/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="vijuNature.ru@SD" group-title="Россия 🇷🇺 Часть 2",viju Nature[cite: 1]
-[https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" group-title="Россия 🇷🇺 Часть 2",viju TV1000 action[cite: 1]
-[https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" group-title="Россия 🇷🇺 Часть 2",viju TV1000 russkoe[cite: 1]
-[https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" group-title="Россия 🇷🇺 Часть 2",viju TV1000 russkoe[cite: 1]
-[https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" group-title="Россия 🇷🇺 Часть 2",viju+ Sport[cite: 1]
-[https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="VitrinaTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Vitrina TV (720p)[cite: 1]
-[https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8](https://www.google.com/search?q=https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="VIVARussia.ru@SD" group-title="Россия 🇷🇺 Часть 2",VIVA Russia[cite: 1]
-[https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8](https://www.google.com/search?q=https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Vkus.ru@SD" group-title="Россия 🇷🇺 Часть 2",Vkus (576p)[cite: 1]
-[http://178.134.1.158:8081/vkus/index.m3u8](https://www.google.com/search?q=http://178.134.1.158:8081/vkus/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Vremya.ru@SD" group-title="Россия 🇷🇺 Часть 2",Vremya (1080p)[cite: 1]
-[https://tchaikovsky.af-stream.com:991/s/xzztutfc/vremya-hd/video.m3u8](https://www.google.com/search?q=https://tchaikovsky.af-stream.com:991/s/xzztutfc/vremya-hd/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zagorodnaya Zhizn (576p)[cite: 1]
-[http://185.57.68.33/40/index.m3u8](https://www.google.com/search?q=http://185.57.68.33/40/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zagorodnaya Zhizn[cite: 1]
-[https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zdorovoe TV (1080p)[cite: 1]
-[http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8](https://www.google.com/search?q=http://de.russkoe-iptv.com:88/s/s-e3dc39e0/zdorovoe-tv-hd.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zhara.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zhara (576p)[cite: 1]
-[http://hls127.freeott.top:8080/Zhara/video.m3u8](https://www.google.com/search?q=http://hls127.freeott.top:8080/Zhara/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ZharaKidsTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zhara Kids TV (576p)[cite: 1]
-[https://trs1.aynaott.com/discoverykids/index.m3u8](https://www.google.com/search?q=https://trs1.aynaott.com/discoverykids/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zoopark.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zoopark (576i)[cite: 1]
-[https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zvezda (1080p)[cite: 1]
-[http://51.158.144.33:2021/zvezda/index.m3u8](https://www.google.com/search?q=http://51.158.144.33:2021/zvezda/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zvezda[cite: 1]
-[https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zvezda.ru@Plus2" group-title="Россия 🇷🇺 Часть 2",Zvezda +2 (576p)[cite: 1]
-[http://94.230.128.107:8080/Zvezda/index.m3u8](https://www.google.com/search?q=http://94.230.128.107:8080/Zvezda/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zvezda.ru@HD" group-title="Россия 🇷🇺 Часть 2",Zvezda HD (1080p) [Not 24/7][cite: 1]
-[https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8](https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zvezda Plus (1080p)[cite: 1]
-[https://tchaikovsky.af-stream.com:991/s/xzztutfc/zvezda-plus-hd/video.m3u8](https://www.google.com/search?q=https://tchaikovsky.af-stream.com:991/s/xzztutfc/zvezda-plus-hd/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="AISTTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Аист ТВ (1080p)[cite: 1]
-[http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8](https://www.google.com/search?q=http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Aris24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Арис 24 (720p) [Not 24/7][cite: 1]
-[http://serv25.vintera.tv:8081/test/aris/playlist.m3u8](https://www.google.com/search?q=http://serv25.vintera.tv:8081/test/aris/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Astrahan24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Астрахань 24 (720p)[cite: 1]
-[https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8](https://www.google.com/search?q=https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="AstrahanRuSport.ru@SD" group-title="Россия 🇷🇺 Часть 2",Астрахань.Ru Sport (720p)[cite: 1]
-[https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8](https://www.google.com/search?q=https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="AstrahanRuTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Астрахань.Ru TV (480p)[cite: 1]
-[https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8](https://www.google.com/search?q=https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Belgorod24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Белгород 24 (1080p)[cite: 1]
-[https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8](https://www.google.com/search?q=https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="BigAsia.ru@SD" group-title="Россия 🇷🇺 Часть 2",Большая Азия (720p)[cite: 1]
-[http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8](http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="BST.ru@SD" group-title="Россия 🇷🇺 Часть 2",БСТ 24 (Братск)[cite: 1]
-[http://bst.bratsk.ru/hls/bst2/index.m3u8](https://www.google.com/search?q=http://bst.bratsk.ru/hls/bst2/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Vera24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Вера 24[cite: 1]
-[https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8](https://www.google.com/search?q=https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Vetta24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Ветта 24 (Пермь) (576p) [Not 24/7][cite: 1]
-[http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8](https://www.google.com/search?q=http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Volga.ru@SD" group-title="Россия 🇷🇺 Часть 2",Волга (HD)[cite: 1]
-[http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8](https://www.google.com/search?q=http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080%404504/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Volgograd24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Волгоград 24 (1080p)[cite: 1]
-[https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8](https://www.google.com/search?q=https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="GuberniaSamara.ru@SD" group-title="Россия 🇷🇺 Часть 2",Губерния (Самара) (576p)[cite: 1]
-[http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8](http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Eurasia.ru@SD" group-title="Россия 🇷🇺 Часть 2",Евразия (Орск) (720p)[cite: 1]
-[https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8](https://www.google.com/search?q=https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Enisey.ru@SD" group-title="Россия 🇷🇺 Часть 2",Енисей (1080p) [Not 24/7][cite: 1]
-[https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8](https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Izvestia.ru@SD" group-title="Россия 🇷🇺 Часть 2",Известия (1080p)[cite: 1]
-[suspicious link removed][cite: 1]
-#EXTINF:-1 tvg-id="Channel16.ru@SD" group-title="Россия 🇷🇺 Часть 2",К16 (Саров) (406p) [Not 24/7][cite: 1]
-[http://serv25.vintera.tv:8081/test/k16/playlist.m3u8](https://www.google.com/search?q=http://serv25.vintera.tv:8081/test/k16/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="KinoTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",КИНОТВ[cite: 1]
-[https://vod.tuva.ru/kinotv/index.m3u8](https://www.google.com/search?q=https://vod.tuva.ru/kinotv/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RedLine.ru@SD" group-title="Россия 🇷🇺 Часть 2",Красная линия (480p)[cite: 1]
-[http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8](http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RedLine.ru@SD" group-title="Россия 🇷🇺 Часть 2",Красная линия (288p)[cite: 1]
-[http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8](https://www.google.com/search?q=http://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Крым 24[cite: 1]
-[https://cdn.1tvcrimea.ru/24tvcrimea.m3u8](https://www.google.com/search?q=https://cdn.1tvcrimea.ru/24tvcrimea.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="LDPRTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",ЛДПР ТВ (1080p)[cite: 1]
-[http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8](https://www.google.com/search?q=http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="LDPRTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",ЛДПР ТВ (720p)[cite: 1]
-[http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8](https://www.google.com/search?q=http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="LDPRTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",ЛДПР ТВ (480p)[cite: 1]
-[http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8](https://www.google.com/search?q=http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Legendarnyy24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Легендарный 24[cite: 1]
-[https://sevas.1tvcrimea.ru/legendarniy24.m3u8](https://www.google.com/search?q=https://sevas.1tvcrimea.ru/legendarniy24.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MaturTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Матур ТВ (1080p)[cite: 1]
-[https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8](https://www.google.com/search?q=https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Millet.ru@SD" group-title="Россия 🇷🇺 Часть 2",Миллет (720p)[cite: 1]
-[https://live1.1tvcrimea.ru/milletlive.m3u8](https://www.google.com/search?q=https://live1.1tvcrimea.ru/milletlive.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Mir24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Мир 24 (1080p)[cite: 1]
-[http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8](https://www.google.com/search?q=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Mir.ru@Plus2" group-title="Россия 🇷🇺 Часть 2",Мир +2 (540p) [Not 24/7][cite: 1]
-[http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Mir.ru@Plus4" group-title="Россия 🇷🇺 Часть 2",Мир +4 (540p) [Not 24/7][cite: 1]
-[http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8](https://www.google.com/search?q=http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Mir.ru@Plus7" group-title="Россия 🇷🇺 Часть 2",Мир +7 (540p)[cite: 1]
-[http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MirBelogorya.ru@SD" group-title="Россия 🇷🇺 Часть 2",Мир Белагорья (720p) [Geo-blocked][cite: 1]
-[http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8](https://www.google.com/search?q=http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MirBelogorya.ru@SD" group-title="Россия 🇷🇺 Часть 2",Мир Белогорья (720p) [Geo-blocked][cite: 1]
-[http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8](https://www.google.com/search?q=http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MTVVolgograd.ru@SD" group-title="Россия 🇷🇺 Часть 2",МТВ (Волгоград) (720p) [Not 24/7][cite: 1]
-[http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8](http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MuzSoyuz.ru@SD" group-title="Россия 🇷🇺 Часть 2",Муз союз (576p)[cite: 1]
-[https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8](https://www.google.com/search?q=https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Multimania.ru@SD" group-title="Россия 🇷🇺 Часть 2",Мультимания (576p)[cite: 1]
-[https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8](https://www.google.com/search?q=https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Multimania.ru@SD" group-title="Россия 🇷🇺 Часть 2",Мультимания ТВ (576p)[cite: 1]
-[http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8](https://www.google.com/search?q=http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD" group-title="Россия 🇷🇺 Часть 2",Надежда (720p)[cite: 1]
-[https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8](https://www.google.com/search?q=https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="HopeChannelRussia.ru@SD" group-title="Россия 🇷🇺 Часть 2",Надежда (720p)[cite: 1]
-[https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8](https://www.google.com/search?q=https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Nano.ru@HD" group-title="Россия 🇷🇺 Часть 2",Нано ТВ HD (576p)[cite: 1]
-[http://s1.tv-nano.com/Nano_rec/index.m3u8](https://www.google.com/search?q=http://s1.tv-nano.com/Nano_rec/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Nauka.ru@SD" group-title="Россия 🇷🇺 Часть 2",Наука[cite: 1]
-[https://vod.tuva.ru/nauka2/index.m3u8](https://www.google.com/search?q=https://vod.tuva.ru/nauka2/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="NVKSakha.ru@SD" group-title="Россия 🇷🇺 Часть 2",НВК Саха (1080p) [Not 24/7][cite: 1]
-[https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8](https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Нижний Новгород 24 (720p) [Not 24/7][cite: 1]
-[https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8](https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="NikaTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Ника ТВ (576p) [Not 24/7][cite: 1]
-[https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8](https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="NovyVek.ru@SD" group-title="Россия 🇷🇺 Часть 2",Новый Век[cite: 1]
-[https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8](https://www.google.com/search?q=https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="NTM.ru@SD" group-title="Россия 🇷🇺 Часть 2",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7][cite: 1]
-[https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8](https://www.google.com/search?q=https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="NTS.ru@SD" group-title="Россия 🇷🇺 Часть 2",НТС (Севастополь) (1080p) [Not 24/7][cite: 1]
-[https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8](https://www.google.com/search?q=https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="OSN.ru@SD" group-title="Россия 🇷🇺 Часть 2",ОСН[cite: 1]
-[http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8](https://www.google.com/search?q=http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD" group-title="Россия 🇷🇺 Часть 2",Открытый мир. Здоровье (576p)[cite: 1]
-[https://v4.proofix.ru/0mir/index.m3u8](https://www.google.com/search?q=https://v4.proofix.ru/0mir/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Patriot.ru@SD" group-title="Россия 🇷🇺 Часть 2",Патриот (576i)[cite: 1]
-[http://catchup.videoline.ru/asvtv/index.m3u8](https://www.google.com/search?q=http://catchup.videoline.ru/asvtv/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="PerviyKrymskiy.ru@SD" group-title="Россия 🇷🇺 Часть 2",Первый Крымский (720p)[cite: 1]
-[https://live1.1tvcrimea.ru/1tvcrimea.m3u8](https://www.google.com/search?q=https://live1.1tvcrimea.ru/1tvcrimea.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Prima.ru@SD" group-title="Россия 🇷🇺 Часть 2",Прима (1080p)[cite: 1]
-[https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8](https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="Россия 🇷🇺 Часть 2",Пятница! (576p)[cite: 1]
-[https://vod.tuva.ru/friday/index.m3u8](https://www.google.com/search?q=https://vod.tuva.ru/friday/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="GovoritMoskva.ru@SD" group-title="Россия 🇷🇺 Часть 2",Радио Говорит Москва (Веб-камера) (720p)[cite: 1]
-[https://video.govoritmoskva.ru/rufm/index.m3u8](https://www.google.com/search?q=https://video.govoritmoskva.ru/rufm/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RadioHit.ru@SD" group-title="Россия 🇷🇺 Часть 2",Радио Хит (Орск) (720p)[cite: 1]
-[http://lova.me/hls/hithd.m3u8](https://www.google.com/search?q=http://lova.me/hls/hithd.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RadioHit.ru@SD" group-title="Россия 🇷🇺 Часть 2",Радио Хит (Орск) (300p)[cite: 1]
-[http://lova.me/hls/hit.m3u8](https://www.google.com/search?q=http://lova.me/hls/hit.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RadioShanson.ru@SD" group-title="Россия 🇷🇺 Часть 2",Радио Шансон (720p) [Not 24/7][cite: 1]
-[http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8](https://www.google.com/search?q=http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",РБК (576p)[cite: 1]
-[https://uiptv.do.am/1ufc/701293058/playlist.m3u8](https://www.google.com/search?q=https://uiptv.do.am/1ufc/701293058/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",РБК (560p)[cite: 1]
-[http://92.50.128.180/utv/1358/index.m3u8](https://www.google.com/search?q=http://92.50.128.180/utv/1358/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",РБК (СПБ) (576p)[cite: 1]
-[https://online-video.rbc.ru/spb/rbctv_spb.m3u8](https://www.google.com/search?q=https://online-video.rbc.ru/spb/rbctv_spb.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RBKTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",РБК-ТВ[cite: 1]
-[http://online-video.rbc.ru/online2/rbctv.m3u8](https://www.google.com/search?q=http://online-video.rbc.ru/online2/rbctv.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RZDTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",РЖД ТВ (1080p) [Geo-blocked][cite: 1]
-[http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8](https://www.google.com/search?q=http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RZDTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",РЖД ТВ (360p) [Geo-blocked][cite: 1]
-[http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8](https://www.google.com/search?q=http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Россия 24 (576p) [Not 24/7][cite: 1]
-[https://uiptv.do.am/1ufc/000000006/playlist.m3u8](https://www.google.com/search?q=https://uiptv.do.am/1ufc/000000006/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="S1.ru@SD" group-title="Россия 🇷🇺 Часть 2",С1 (Сургут) (1080p) [Not 24/7][cite: 1]
-[https://sitv.ru/hls/stv.m3u8](https://www.google.com/search?q=https://sitv.ru/hls/stv.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="SamaraGIS.ru@SD" group-title="Россия 🇷🇺 Часть 2",Самара ГИС (1080p) [Not 24/7][cite: 1]
-[https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8](https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Sever.ru@SD" group-title="Россия 🇷🇺 Часть 2",Север (Нарьян-Мар)[cite: 1]
-[https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8](https://www.google.com/search?q=https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Simferopol24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Симферополь 24[cite: 1]
-[https://simf.1tvcrimea.ru/simferopol24.m3u8](https://www.google.com/search?q=https://simf.1tvcrimea.ru/simferopol24.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="SmileTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Смайл ТВ[cite: 1]
-[https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8](https://www.google.com/search?q=https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Россия 🇷🇺 Часть 2",Солнце (576p)[cite: 1]
-[http://tv.mediacdn.ru/live/solntse/playlist.m3u8](http://tv.mediacdn.ru/live/solntse/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Sochi24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Сочи 24 HD (720p)[cite: 1]
-[http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8](https://www.google.com/search?q=http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Soyuz.ru@SD" group-title="Россия 🇷🇺 Часть 2",Союз (576p)[cite: 1]
-[https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8](https://www.google.com/search?q=https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="StranaFM.ru@SD" group-title="Россия 🇷🇺 Часть 2",Страна FM (720p) [Not 24/7][cite: 1]
-[http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8](http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="StudiyaFakt.ru@SD" group-title="Россия 🇷🇺 Часть 2",Студия Факт[cite: 1]
-[https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8](https://www.google.com/search?q=https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Tamyr.ru@SD" group-title="Россия 🇷🇺 Часть 2",Тамыр (Уфа)[cite: 1]
-[https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8](https://www.google.com/search?q=https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Россия 🇷🇺 Часть 2",ТВ Центр[cite: 1]
-[https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8](https://www.google.com/search?q=https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TVK.ru@SD" group-title="Россия 🇷🇺 Часть 2",ТВК 24 (576p)[cite: 1]
-[https://air.tvk6.ru/tvk24/playlist.m3u8](https://www.google.com/search?q=https://air.tvk6.ru/tvk24/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TvoeTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Твое TV HD (1080p)[cite: 1]
-[http://tvoetv.space:8080/tvoetv/index.m3u8](https://www.google.com/search?q=http://tvoetv.space:8080/tvoetv/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD" group-title="Россия 🇷🇺 Часть 2",Твое ТВ Юмор (1080p)[cite: 1]
-[http://tvoetv.space:8080/tvoetv_humor/index.m3u8](https://www.google.com/search?q=http://tvoetv.space:8080/tvoetv_humor/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="86.ru@SD" group-title="Россия 🇷🇺 Часть 2",Телеканал 86 (Сургут) (1080p) [Not 24/7][cite: 1]
-[https://sitv.ru/hls/s86.m3u8](https://www.google.com/search?q=https://sitv.ru/hls/s86.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="555.ru@SD" group-title="Россия 🇷🇺 Часть 2",Телерадиокомпания 555 (Алушта) (720p)[cite: 1]
-[http://trk555.tv:8888/live](https://www.google.com/search?q=http://trk555.tv:8888/live)[cite: 1]
-#EXTINF:-1 tvg-id="Telplus.ru@SD" group-title="Россия 🇷🇺 Часть 2",Телплюс ТВ (Астрахань) (360p) [Not 24/7][cite: 1]
-[https://streaming.astrakhan.ru/telplushd/playlist.m3u8](https://www.google.com/search?q=https://streaming.astrakhan.ru/telplushd/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TKR.ru@SD" group-title="Россия 🇷🇺 Часть 2",ТКР (Рязань) (1080p) [Not 24/7][cite: 1]
-[http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8](http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Россия 🇷🇺 Часть 2",Толк HD (720p)[cite: 1]
-[http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8](https://www.google.com/search?q=http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="3ABNRussia.ru@SD" group-title="Россия 🇷🇺 Часть 2",Три Ангела (720p)[cite: 1]
-[https://hls.tv.3angels.ru/stream.m3u8](https://www.google.com/search?q=https://hls.tv.3angels.ru/stream.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="HuzurTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Хузур ТВ (1080p) [Not 24/7][cite: 1]
-[https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8](https://www.google.com/search?q=https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Шансон ТВ (576p) [Geo-blocked][cite: 1]
-[https://uiptv.do.am/1ufc/602079679/playlist.m3u8](https://www.google.com/search?q=https://uiptv.do.am/1ufc/602079679/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Шансон ТВ (512p) [Geo-blocked][cite: 1]
-[http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8](https://www.google.com/search?q=http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Щёлковское ТВ (576p) [Not 24/7][cite: 1]
-[http://stream0.tv41.ru/live.m3u8](https://www.google.com/search?q=http://stream0.tv41.ru/live.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Yuvelirochka.ru@SD" group-title="Россия 🇷🇺 Часть 2",Ювелирочка ТВ (576p)[cite: 1]
-[https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8](https://www.google.com/search?q=https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ART.ru@SD" group-title="Россия 🇷🇺 Часть 2",ART (576p)[cite: 1]
-[http://89.104.114.24:8080/art/index.m3u8](https://www.google.com/search?q=http://89.104.114.24:8080/art/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RTVi.ru@SD" group-title="Россия 🇷🇺 Часть 2",RTVi (576p)[cite: 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36[cite: 1]
-[https://shift03.isp.bg/RTVi/index.m3u8](https://www.google.com/search?q=https://shift03.isp.bg/RTVi/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Shanson TV (576p) [Geo-blocked][cite: 1]
-[https://streaming.thestream.cyou/live/7009.m3u8](https://www.google.com/search?q=https://streaming.thestream.cyou/live/7009.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="360.ru@SD" group-title="Россия 🇷🇺 Часть 2",360° (576p) [Geo-blocked][cite: 1]
-[https://streaming.thestream.cyou/live/7000.m3u8](https://www.google.com/search?q=https://streaming.thestream.cyou/live/7000.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="VmesteRF.ru@SD" group-title="Россия 🇷🇺 Часть 2",Vmeste-RF (576p) [Geo-blocked][cite: 1]
-[https://streaming.thestream.cyou/live/7006.m3u8](https://www.google.com/search?q=https://streaming.thestream.cyou/live/7006.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Channel12.ru@SD" group-title="Россия 🇷🇺 Часть 2",Channel 12 (576p) [Geo-blocked][cite: 1]
-[https://streaming.thestream.cyou/live/7004.m3u8](https://www.google.com/search?q=https://streaming.thestream.cyou/live/7004.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Radio1.ru@SD" group-title="Россия 🇷🇺 Часть 2",Radio 1 (720p) [Geo-blocked][cite: 1]
-https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8](https://www.google.com/search?q=https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Moskva24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Moskva 24 (720p)[cite: 1]
-https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="SanktPeterburg.ru@HD" group-title="Россия 🇷🇺 Часть 2",Sankt-Peterburg HD (720p)[cite: 1]
-https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Patriot.ru@SD" group-title="Россия 🇷🇺 Часть 2",Patriot (720p)[cite: 1]
-https://stream.smotrim.ru/hls2/static/playlist_4.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/static/playlist_4.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="VestiFM.ru@HD" group-title="Россия 🇷🇺 Часть 2",Vesti FM (720p)[cite: 1]
-https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RadioRossii.ru@HD" group-title="Россия 🇷🇺 Часть 2",Radio Rossii (720p)[cite: 1]
-https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8](https://www.google.com/search?q=https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Channel8Novosibirsk.ru@SD" group-title="Россия 🇷🇺 Часть 2",Channel 8 Novosibirsk (480i)[cite: 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0[cite: 1]
-https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8](https://www.google.com/search?q=https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Moyastikhiya.ru@HD" group-title="Россия 🇷🇺 Часть 2",Moya stikhiya HD (1080p)[cite: 1]
-http://stream.mcquack.net/141/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/141/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zhivayapriroda.ru@SD" group-title="Россия 🇷🇺 Часть 2",Zhivaya priroda (1080p)[cite: 1]
-http://stream.mcquack.net/83/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/83/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" group-title="Россия 🇷🇺 Часть 2",National Geographic (576p)[cite: 1]
-http://stream.mcquack.net/116/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/116/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RTGTV.ru@HD" group-title="Россия 🇷🇺 Часть 2",RTG TV HD (1080p)[cite: 1]
-http://stream.mcquack.net/164/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/164/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" group-title="Россия 🇷🇺 Часть 2",Ohotnik i rybolov HD (1080p)[cite: 1]
-http://stream.mcquack.net/194/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/194/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Okhotairybalka.ru@SD" group-title="Россия 🇷🇺 Часть 2",Okhota i rybalka (576p)[cite: 1]
-http://stream.mcquack.net/155/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/155/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="TochkaRF.ru@SD" group-title="Россия 🇷🇺 Часть 2",Tochka RF (1080p)[cite: 1]
-http://stream.mcquack.net/161/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/161/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Zhivayapriroda.ru@HD" group-title="Россия 🇷🇺 Часть 2",Zhivaya priroda HD (1080p)[cite: 1]
-http://stream.mcquack.net/225/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/225/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Dikayaokhota.ru@HD" group-title="Россия 🇷🇺 Часть 2",Dikaya okhota HD (1080p)[cite: 1]
-http://stream.mcquack.net/274/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/274/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="InsaytTV.ru@4K" group-title="Россия 🇷🇺 Часть 2",Insayt TV (1080p)[cite: 1]
-http://stream.mcquack.net/361/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/361/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Nano.ru@SD" group-title="Россия 🇷🇺 Часть 2",Nano (576p)[cite: 1]
-http://stream.mcquack.net/419/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/419/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Komedia.ru@SD" group-title="Россия 🇷🇺 Часть 2",Komedia (576p)[cite: 1]
-http://stream.mcquack.net/68/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/68/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Avto24.ru@SD" group-title="Россия 🇷🇺 Часть 2",Avto24 (576p)[cite: 1]
-http://stream.mcquack.net/78/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/78/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" group-title="Россия 🇷🇺 Часть 2",Fashion&LifeStyle (1080p)[cite: 1]
-http://stream.mcquack.net/119/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/119/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STARTAir.ru@SD" group-title="Россия 🇷🇺 Часть 2",START Air (576p)[cite: 1]
-http://stream.mcquack.net/128/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/128/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="FoxLife.ru@SD" group-title="Россия 🇷🇺 Часть 2",Fox Life (576p)[cite: 1]
-http://stream.mcquack.net/129/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/129/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STS.ru@HD" group-title="Россия 🇷🇺 Часть 2",STS HD (1080p)[cite: 1]
-http://stream.mcquack.net/138/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/138/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="AmediaHit.ru@SD" group-title="Россия 🇷🇺 Часть 2",Amedia Hit (1080p)[cite: 1]
-http://stream.mcquack.net/162/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/162/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Fox.ru@SD" group-title="Россия 🇷🇺 Часть 2",Fox (576p)[cite: 1]
-http://stream.mcquack.net/182/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/182/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="STSLove.ru@SD" group-title="Россия 🇷🇺 Часть 2",STS Love (576p)[cite: 1]
-http://stream.mcquack.net/183/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/183/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Россия 🇷🇺 Часть 2",2x2 SD (576p)[cite: 1]
-http://stream.mcquack.net/187/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/187/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Retro.ru@SD" group-title="Россия 🇷🇺 Часть 2",Retro (576p)[cite: 1]
-http://stream.mcquack.net/191/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/191/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russkiy Bestseller (576p)[cite: 1]
-http://stream.mcquack.net/208/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/208/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russkiy Detektiv (576p)[cite: 1]
-http://stream.mcquack.net/204/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/204/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russkiy roman (576p)[cite: 1]
-http://stream.mcquack.net/266/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/266/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Premialnoe.ru@HD" group-title="Россия 🇷🇺 Часть 2",Premialnoe HD (1080p)[cite: 1]
-http://stream.mcquack.net/421/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/421/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Usadba.ru@SD" group-title="Россия 🇷🇺 Часть 2",Usadba (576p)[cite: 1]
-http://stream.mcquack.net/211/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/211/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Nashe.ru@HD" group-title="Россия 🇷🇺 Часть 2",Nashe HD (576p)[cite: 1]
-http://stream.mcquack.net/217/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/217/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="U.ru@SD" group-title="Россия 🇷🇺 Часть 2",U (576p)[cite: 1]
-http://stream.mcquack.net/230/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/230/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="black.ru@SD" group-title="Россия 🇷🇺 Часть 2",.black (576p)[cite: 1]
-http://stream.mcquack.net/263/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/263/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Rybolov.ru@SD" group-title="Россия 🇷🇺 Часть 2",Rybolov (576p)[cite: 1]
-http://stream.mcquack.net/264/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/264/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Subbota.ru@HD" group-title="Россия 🇷🇺 Часть 2",Subbota! HD (1080p)[cite: 1]
-http://stream.mcquack.net/269/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/269/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Sarafan.ru@SD" group-title="Россия 🇷🇺 Часть 2",Sarafan (576p)[cite: 1]
-http://stream.mcquack.net/81/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/81/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Hit.ru@HD" group-title="Россия 🇷🇺 Часть 2",Hit HD (1080p)[cite: 1]
-[http://stream.mcquack.net/363/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/363/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Evrokino.ru@HD" group-title="Россия 🇷🇺 Часть 2",Evrokino HD (1080p)[cite: 1]
-http://stream.mcquack.net/385/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/385/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Nickelodeon.ru@SD" group-title="Россия 🇷🇺 Часть 2",Nickelodeon (576p)[cite: 1]
-http://stream.mcquack.net/443/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/443/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Mama.ru@SD" group-title="Россия 🇷🇺 Часть 2",Mama (576p)[cite: 1]
-http://stream.mcquack.net/79/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/79/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="O.ru@SD" group-title="Россия 🇷🇺 Часть 2",O! (576p)[cite: 1]
-http://stream.mcquack.net/60/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/60/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Solnce.ru@SD" group-title="Россия 🇷🇺 Часть 2",Solnce (576p)[cite: 1]
-http://stream.mcquack.net/118/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/118/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MuzykaLive.ru@SD" group-title="Россия 🇷🇺 Часть 2",Muzyka Live (576p)[cite: 1]
-http://stream.mcquack.net/303/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/303/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" group-title="Россия 🇷🇺 Часть 2",Muzyka Pervogo (576p)[cite: 1]
-http://stream.mcquack.net/153/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/153/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@HD" group-title="Россия 🇷🇺 Часть 2",BRIDGE Deluxe HD (576p)[cite: 1]
-http://stream.mcquack.net/92/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/92/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="ClassicMusic.ru@SD" group-title="Россия 🇷🇺 Часть 2",Classic Music (1080p)[cite: 1]
-http://stream.mcquack.net/312/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/312/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="RussianMusicBox.ru@SD" group-title="Россия 🇷🇺 Часть 2",Russian MusicBox (576p)[cite: 1]
-http://stream.mcquack.net/319/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/319/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="KHLPrime.ru@SD" group-title="Россия 🇷🇺 Часть 2",KHL Prime (1080p)[cite: 1]
-http://stream.mcquack.net/178/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/178/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MatchUltra.ru@4K" group-title="Россия 🇷🇺 Часть 2",Match! Ultra (720p)[cite: 1]
-http://stream.mcquack.net/169/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/169/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="MatchArena.ru@SD" group-title="Россия 🇷🇺 Часть 2",Match! Arena (576p)[cite: 1]
-http://stream.mcquack.net/163/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/163/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" group-title="Россия 🇷🇺 Часть 2",viju+ Sport (576p)[cite: 1]
-http://stream.mcquack.net/333/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/333/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Prodvizhenie.ru@SD" group-title="Россия 🇷🇺 Часть 2",Prodvizhenie (1080p)[cite: 1]
-https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8](https://www.google.com/search?q=https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="FAN.ru@SD" group-title="Россия 🇷🇺 Часть 2",FAN (576p)[cite: 1]
-http://stream.mcquack.net/420/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/420/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="LawTV.ru@SD" group-title="Россия 🇷🇺 Часть 2",Law TV (1080p)[cite: 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36[cite: 1]
-http://stream.mcquack.net/406/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/406/index.m3u8)[cite: 1]
-#EXTINF:-1 tvg-id="Dorama.ru@HD" group-title="Россия 🇷🇺 Часть 2",Dorama HD (1080p)[cite: 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36[cite: 1]
-http://stream.mcquack.net/412/index.m3u8](https://www.google.com/search?q=http://stream.mcquack.net/412/index.m3u8)[cite: 1]
+http://178.124.179.122:8080/TRO/index.m3u8](https://www.google.com/search?q=http://178.124.179.122:8080/TRO/index.m3u8)[cite: 1]
 
+
+#EXTINF:-1 tvg-id="360.ru@SD",360° (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="360News.ru@SD",360° Новости (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FonMusic.ru@SD",FON Music (1080p)
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe",RTR Planeta Europe [Geo-blocked]
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia",Russia RTR Asia [Geo-blocked]
+https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@US",RTR Planeta USA [Geo-blocked]
+https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS",Russia RTR CIS [Geo-blocked]
+https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
+#EXTINF:-1 tvg-id="Arktika24.ru@SD",Арктика 24 (Архангельск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Bashkortostan24.ru@SD",Башкортостан 24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:-1 tvg-id="BigAsia.ru@SD",Большая Азия (720p)
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VestiFM.ru@HD",Вести ФМ
+https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD",Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Volgograd24.ru@SD",Волгоград 24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Vostok24.ru@SD",Восток 24 (Владивосток) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru@SD",Дума ТВ (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://dumatv.iptv2022.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Zapad24.ru@SD",Запад 24 (Калининград) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Kavkaz24.ru@SD",Кавказ 24 (Ставрополь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 tvg-id="LenTV24.ru@SD",ЛенТВ24
+https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
+#EXTINF:-1 tvg-id="NizhniyNovgorod24.ru@SD",Нижний Новгород 24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+#EXTINF:-1 tvg-id="OTVPrim.ru@SD",ОТВ Приморье
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+1) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+2) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+3) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+4) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+5) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+6)) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+7) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+8) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (+9) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Абакан) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Адыгея) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Алания) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Амур) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Анадырь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Барнаул) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Белгород) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Биробиджан) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Брянск) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Бурятия) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Владивосток) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Владимир) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Волгоград-ТРВ) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Вологда) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Воронеж) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Вятка) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Горно-Алтайск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Грозный) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Дальневосточная) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Дон-ТР) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Донецк) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ивтелерадио) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ижевск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Иркутск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Иртыш) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Кабардино-Балкария) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Калининград) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Калуга) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Камчатка) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Карелия) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Кострома) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Краснодар) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Красноярск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Кузбасс) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Курган) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Курск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Липецк) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Лотос) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Луганск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Магадан) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Марий Эл) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Махачкала) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Мордовия) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Мурманск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Назрань) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Нижний Новгород) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Новосибирск) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ока) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Орёл) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Оренбург) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Пенза) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Пермь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Поморье) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Псков) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Салехард) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Самара) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Санкт-Петербург) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Саратов) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Саха) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Сахалин) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Симферополь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Славия) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Смоленск) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Сочи) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ставрополь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Сыктывкар) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Тамбов) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Татарстан) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Тверь) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Томск) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Тула) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Тыва) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Тюмень) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ульяновск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Урал) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Уфа) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ханты-Мансийск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Челябинск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Черкесск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Чита) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Чувашия) (1080p)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Элиста) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (Ярославль) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Архангельск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Астрахань) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Белгород) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Благовещенск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Брянск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Великий Новгород) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Владикавказ) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Владимир) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Воронеж) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Екатеринбург) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Иваново) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Йошкар-Ола) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Казань) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Калининград) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Калуга) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Кемерово) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Киров) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Кострома) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Курган) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Кызыл) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Липецк) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Магадан) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Майкоп) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Нальчик) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Новосибирск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Омск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Орёл) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Оренбург) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Пенза) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Петрозаводск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Петропавловск-Камчатский) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Псков) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Ростов-на-Дону) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Рязань) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Санкт-Петербург) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Саранск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Саратов) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Смоленск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Тамбов) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Тверь) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Томск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Тула) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Улан-Удэ) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Хабаровск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Чебоксары) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Чита) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Южно-Сахалинск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@HD",Россия 1 HD (Якутск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Абакан) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Анадырь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/anadyr/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Архангельск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Астрахань) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/astrahan/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Барнаул) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Белгород) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/belgorod/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Биробиджан) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/birobidgan/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Благовещенск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/blagoveshensk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Брянск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Великий Новгород) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Владивосток) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Владикавказ) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Владимир) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Волгоград) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Вологда) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Воронеж) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/voroneg/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Горно-Алтайск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Грозный) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Екатеринбург) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ekaterinburg/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Иваново) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Ижевск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/igevsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Иркутск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/irkutsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Йошкар-Ола) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yoshkar-ola/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Казань) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kazan/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Калининград) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Калуга) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Кемерово) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kemerovo/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Киров) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Кострома) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Краснодар) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Красноярск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Курган) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Курск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kursk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Кызыл) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kisil/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Липецк) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Магадан) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/magadan/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Майкоп) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Махачкала) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/mahachkala/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Мурманск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/murmansk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Назрань) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Нальчик) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Нижний Новгород) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Новосибирск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Омск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Орёл) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Оренбург) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orenburg/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Пенза) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Пермь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/perm/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Петрозаводск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petrozavodsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Петропавловск-Камчатский) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/petropavlosk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Псков) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Ростов-на-Дону) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/rostovdon/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Рязань) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Салехард) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/salehad/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Самара) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Санкт-Петербург) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/spb/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Саранск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Саратов) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saratov/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Симферополь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/simferopol/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Смоленск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Сочи) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Ставрополь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Сыктывкар) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/siktivkar/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Тамбов) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Тверь) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Томск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tomsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Тула) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Тюмень) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tumen/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Улан-Удэ) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Ульяновск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulyanovsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Уфа) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Хабаровск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Ханты-Мансийск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/hantimansisk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Чебоксары) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Челябинск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Черкесск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Чита) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Элиста) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Южно-Сахалинск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ugnosahalinsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Якутск) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (Ярославль) (576p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 International
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия К (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия Культура (+2) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия Культура (+4) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия Культура (+7) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 tvg-id="Samara24.ru@SD",Самара 24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@SD",Санкт-Петербург
+https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
+#EXTINF:-1 tvg-id="Sibir24.ru@KYA",Сибирь 24 (Красноярск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Sibir24.ru@NVS",Сибирь 24 (Новосибирск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="Smotrim100Detskoe.ru@SD",Смотрим 100% Детское
+https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+#EXTINF:-1 tvg-id="Smotrim100Klassika.ru@SD",Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD",Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD",Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 tvg-id="Smotrim100Prazdnik.ru@SD",Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+#EXTINF:-1 tvg-id="Smotrim100Fakty.ru@SD",Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD",Смотрим Честный Детектив (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD",Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 tvg-id="Surgut24.ru@SD",СургутИнформТВ
+https://sitv.ru/vgtrk/stv.m3u8
+#EXTINF:-1 tvg-id="TelekanalKrasnodar.ru@HD",Телеканал Краснодар (1080p)
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Tolk.ru@HD",Толк (720p)
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Ural24.ru@SD",Урал 24 (Челябинск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1 tvg-id="UgraTV.ru@SD",Югра (1080p)
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 
 
 
