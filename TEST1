@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.one/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="AZERBAYCAN",APA Tv
-https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
+http://stream.apa.tv/apastream/index.m3u8
 
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
 https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8?t
@@ -53,6 +53,9 @@ http://176.65.146.189:8701/play/a09n
 #EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://azertag.az/files/2024/1/1200x630/17104901366551033420_1200x630.jpg" group-title="AZERBAYCAN",Real Tv
 http://176.65.146.189:8701/play/a09o
 
+#EXTINF:-1 tvg-id="AyazTV.az@SD" group-title="AZERBAYCAN",Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+
 #EXTINF:-1 tvg-id="QafqazTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Qafqaz_TV_%282017-h.h.%29.png" group-title="AZERBAYCAN",Qafqaz TV
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 
@@ -61,7 +64,7 @@ https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="NaxcivanTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Nax%C3%A7%C4%B1van_TV_%282025%29.png" group-title="AZERBAYCAN",Naxcivan TV
-https://str.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+https://str2.yodacdn.net/ntv/video.m3u8
 
 #EXTINF:-1 tvg-id="VostokTV.az" tvg-logo="https://www.cableman.ru/sites/default/files/vostok.png" group-title="AZERBAYCAN",Vostok TV
 https://str.yodacdn.net/tmb/tracks-v1a1/mono.ts.m3u8
@@ -77,8 +80,19 @@ https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",Gunaz tv
 http://176.65.146.189:8701/play/a09x
 
+#EXTINF:-1 tvg-id="VilayetTV.az@SD" group-title="AZERBAYCAN",Vilayet TV
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 tvg-id="Kanal35.az@SD" group-title="AZERBAYCAN",Kanal 35 (720p)
+https://str2.yodacdn.net/kanal35/index.m3u8
+
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="AZERBAYCAN",Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalS.az@SD" group-title="AZERBAYCAN",Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1 tvg-id="KNMusicTV.az@SD" group-title="AZERBAYCAN",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" ,Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
