@@ -4,16 +4,13 @@
 https://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ARB.az" tvg-logo="https://i.imgur.com/E97M2OL.png" group-title="AZERBAYCAN",ARB
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
+https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8?t
 
 #EXTINF:-1 tvg-id="Kanal12.az" tvg-logo="h" group-title="AZERBAYCAN",Kanal 12
 https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="AZERBAYCAN",Ictimai TV HD
 https://live.itv.az/itv.m3u8
-
-#EXTINF:-1 tvg-id="IctimaiTV.az" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Ictimai TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/ictimai-tv.m3u8
 
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
 https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
@@ -31,7 +28,7 @@ https://str.yodacdn.net/atv/tracks-v1a1/mono.ts.m3u8
 https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN",Baku TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+https://str.yodacdn.net/bakutv/index.m3u8
 
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="AZERBAYCAN",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
@@ -42,8 +39,10 @@ https://stream.ftv.az/live/dunyatv.m3u8
 #EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="AZERBAYCAN",Medeniyyet TV
 https://str2.yodacdn.net/medeniyyettele/index.m3u8
 
-#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV 1
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=e25c49fdb55c6ff326218339102472e3
+#EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV 2
+https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="AZERBAYCAN",Xezer TV
 https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8
@@ -70,8 +69,6 @@ https://str.yodacdn.net/cbc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/120px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="AZERBAYCAN",Kepez TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
-#EXTINF:-1 tvg-id="KanalS.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kanal_S_loqosu_%282022%29.png/120px-Kanal_S_loqosu_%282022%29.png" group-title="AZERBAYCAN",Kanal S
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" ,Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
