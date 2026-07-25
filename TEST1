@@ -13,7 +13,7 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 https://live.itv.az/itv.m3u8
 
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
-https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="ARBGunes.az" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="AZERBAYCAN",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8
@@ -22,21 +22,16 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://str.yodacdn.net/azertv/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad Azerbaycan TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-id="ATV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad Azerbaycan TV REZERV
-http://176.65.146.189:8701/play/a09m
 
 #EXTINF:-1 tvg-id="IdmanAzerbaycan.az" tvg-logo="https://i.ibb.co/VC7Q18V/azflag.png" group-title="AZERBAYCAN",Idman TV
-http://176.65.146.189:8701/play/a09j
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN",Baku TV
-http://176.65.146.189:8701/play/a09t
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="AZERBAYCAN",Baku TV  REZERV
-http://176.65.146.189:8701/play/a09s
+https://str.yodacdn.net/bakutv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="AZERBAYCAN",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCSport.az" tvg-logo="https://i.imgur.com/3mEdjuq.png" group-title="AZERBAYCAN",CBC Sport REZERV
-http://176.65.146.189:8701/play/a09h
+
 
 #EXTINF:-1 tvg-id="DunyaTV.az" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png" group-title="AZERBAYCAN",Dunya TV
 http://176.65.146.189:8701/play/a09r
@@ -48,10 +43,12 @@ http://176.65.146.189:8701/play/a09p
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="AZERBAYCAN",Xezer TV
 https://xezerxeber.az/stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://azertag.az/files/2024/1/1200x630/17104901366551033420_1200x630.jpg" group-title="AZERBAYCAN",Real Tv
-http://176.65.146.189:8701/play/a09o
-
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="AyazTV.az@SD" group-title="AZERBAYCAN",Ayaz TV (720p)
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+
+#EXTINF:-1  group-title="AZERBAYCAN",EL TV
+https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8?
 
 #EXTINF:-1 tvg-id="QafqazTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Qafqaz_TV_%282017-h.h.%29.png" group-title="AZERBAYCAN",Qafqaz TV
 https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
@@ -67,15 +64,14 @@ https://str2.yodacdn.net/ntv/video.m3u8
 https://str.yodacdn.net/tmb/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="CBCAzerbaycan.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" group-title="AZERBAYCAN",CBC Azerbaycan TV
-http://176.65.146.189:8701/play/a09g
-
+https://stream.castr.com/6994359f4093355bcd876a4c/live_dfbe52f00be311f1952faf8c24dd1b5c/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="KepezTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/120px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" group-title="AZERBAYCAN",Kepez TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 
 #EXTINF:-1 tvg-id="WestAzerbaijanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="AZERBAYCAN",Azerbaijan Gharbi
 https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1  group-title="AZERBAYCAN",Gunaz tv
-http://176.65.146.189:8701/play/a09x
+https://tv.gunaz.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="VilayetTV.az@SD" group-title="AZERBAYCAN",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
