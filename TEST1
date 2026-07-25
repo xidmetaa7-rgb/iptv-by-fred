@@ -11,8 +11,6 @@ https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8
 
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="AZERBAYCAN",Ictimai TV HD
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD" tvg-logo="https://i.imgur.com/HzY4VMo.png" group-title="AZERBAYCAN",Ictimai TV HD REZERV 
-http://176.65.146.189:8701/play/a09l
 
 #EXTINF:-1 tvg-id="ARB24.az" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="AZERBAYCAN",ARB 24
 https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
@@ -21,8 +19,7 @@ https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-gunes.m3u8
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="AZERBAYCAN",Az TV
-http://176.65.146.189:8701/play/a09i
-
+https://str.yodacdn.net/azertv/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad Azerbaycan TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="ATV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAYCAN",Azad Azerbaycan TV REZERV
@@ -45,7 +42,7 @@ http://176.65.146.189:8701/play/a09h
 http://176.65.146.189:8701/play/a09r
 
 #EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/PlvaDIa.png" group-title="AZERBAYCAN",Medeniyyet TV
-http://176.65.146.189:8701/play/a09k
+https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/ufvVQJH.png" group-title="AZERBAYCAN",Space TV 
 http://176.65.146.189:8701/play/a09p
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="AZERBAYCAN",Xezer TV
