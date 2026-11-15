@@ -32,6 +32,7 @@ https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=e25c49fdb55c6f
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/3/3d/X%C9%99z%C9%99r_TV_loqo.png" group-title="AZERBAYCAN",Xezer TV
 https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+
 #EXTINF:-1 tvg-id="RealTV.az" tvg-logo="https://azertag.az/files/2024/1/1200x630/17104901366551033420_1200x630.jpg" group-title="AZERBAYCAN",Real Tv
 https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="CBCAzerbaycan.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png" group-title="AZERBAYCAN",CBC Azerbaycan TV
